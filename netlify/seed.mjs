@@ -1,1 +1,2602 @@
-export default [{"name":"Aus der Natur","motifs":"Blüten, Zweige, Farn, Farbspritzer","topics":"Natur, Blumen, Pflanzen, Dank, Glückwunsch, Erinnerung","phrases":["Für immer unvergessen","Wir heiraten","Ein herzliches Dankeschön","Beste Wünsche und viel Glück"],"location":"","imageKey":"/seed/158799.jpg","sku":"158799"},{"name":"Alles Glück","motifs":"Rosen, Blüten, Blumensträuße, Blätter","topics":"Geburtstag, Glückwunsch, Blumen, Danke, Freundschaft","phrases":["Ein großes Dankeschön für alles","Wir wünschen dir alles Glück der Welt","Zum Geburtstag","Viel Freude","Weißt du, wie wundervoll du bist?","Glückwunsch","Beste Wünsche"],"location":"","imageKey":"/seed/159242.jpg","sku":"159242"},{"name":"Am Horizont","motifs":"Bäume, Holzstruktur, Gras, Vögel","topics":"Trauer, Abschied, Dank, Entspannung, Natur, Neuanfang","phrases":["In stillem Gedenken","Danke für alles","Atme durch","Entspann dich & genieß deinen Tag","Am Horizont warten neue Wege"],"location":"","imageKey":"/seed/157776.jpg","sku":"157776"},{"name":"Aus der Kreativwerkstatt","motifs":"Schreibschriftalphabet, Druckbuchstaben, Zahlen, Zeichen, kleiner Zweig","topics":"Alphabet, Buchstaben, Zahlen, Handgemacht, Etikett, Karte","phrases":["Nur für dich gebastelt","Selbst gemacht von","Gestaltet von","Aus der Kreativwerkstatt von","#sendacard","#makeacard","Ich gehöre:","Mit Liebe gemacht","Zu übergeben an"],"location":"","imageKey":"/seed/148195.jpg","sku":"148195"},{"name":"All Squared Away","motifs":"Vier quadratische Hintergrundmuster: Striche, Punkte, Wellen und Schleifen","topics":"Geburtstag, Freundschaft, Muster, Hintergründe, Englisch","phrases":["Happiest of birthdays to you!","You are SO worth celebrating!","...like our FRIENDSHIP.","Good things GROW...","The BEST thing about today is YOU!"],"location":"","imageKey":"/seed/155087.jpg","sku":"155087"},{"name":"Alphabest","motifs":"Alphabet, Zahlen, Umlaute, Satzzeichen, Etiketten, Sterne, Blume","topics":"Alphabet, Buchstaben, Zahlen, Schrift, Etiketten","phrases":[],"location":"","imageKey":"/seed/158884.jpg","sku":"158884"},{"name":"Aus dem Ozean","motifs":"Krabben, Hummer, Koralle, Algen, Blasen","topics":"Meer, Ozean, Strand, maritime Einladung, Urlaub","phrases":["Einladung","Kleiner Gruß","Zeit für Meer"],"location":"","imageKey":"/seed/164689.jpg","sku":"164689"},{"name":"Am Waldrand","motifs":"Reh, Bäume, Wald, Gras, Waldlandschaft","topics":"Wald, Natur, Tiere, Reh, Trost, Danke, Ermutigung","phrases":["Manchmal hilft es zu wissen, dass jemand dich versteht","Zum Beispiel ich","Denk positiv","Danke dir"],"location":"","imageKey":"/seed/157842.jpg","sku":"157842"},{"name":"Alles im Block","motifs":"Herzen, Sterne, Spritzer, Pinselstriche, Textur","topics":"Glückwunsch, Willkommen, Dank, Geschenk, Lob","phrases":["Herzlichen Glückwunsch","Hallöchen","Toll gemacht","Willkommen","Für dich","Von mir","Danke"],"location":"","imageKey":"/seed/152278.jpg","sku":"152278"},{"name":"Auf Spritztour","motifs":"Cabrio mit Luftballons, Bus, Auto mit Geschenken","topics":"Auto, Reise, Fahrt, Geburtstag, Einladung, Geschenk","phrases":["Gute Fahrt!","Mit jedem Jahr wertvoller","Einladung zum Geburtstag"],"location":"","imageKey":"/seed/158105.jpg","sku":"158105"},{"name":"Zusammen","motifs":"Typografische Sprüche","topics":"Freundschaft, Zusammenhalt, Trost, Danke, Unterstützung","phrases":["Wir schaffen das zusammen","Ich kann deine Probleme nicht für dich lösen. Aber ich stehe dir immer zur Seite.","Tut mir so leid für dich","Bin so froh, dass ich dich habe!","Ich wünschte, ich könnte dein Herz irgendwie heilen","Vielen Dank"],"location":"","imageKey":"/seed/155297.jpg","sku":"155297"},{"name":"Zauberhafte Grüße","motifs":"Blumen, Blätter, Blütenzweige, Ornamente","topics":"Freundschaft, Danke, Einladung, Blumen, Pflanzen, Ermutigung","phrases":["Du bist mein Lieblingsmensch","Zusammen ist alles schöner","Kleiner Aufmunterer für dich!","Für immer und ewig","Hallöchen","Großes Dankeschön","Von Herzen","Von mir für dich","Einladung","Weißt du was? Du bist zauberhaft","Dem Auge fern, dem Herzen nah"],"location":"","imageKey":"/seed/152922.jpg","sku":"152922"},{"name":"Weihnachtshirsch","motifs":"Zierlicher Hirsch, Hirsche, Blumenornament","topics":"Weihnachten, Hirsch, Rentier, Fest, Dank","phrases":["Mit lieben Gedanken und den allerbesten Wünschen","Herzliche Weihnachtsgrüße","Gruß zum Fest","Und ein großes Dankeschön für alles im vergangenen Jahr"],"location":"","imageKey":"/seed/151697.jpg","sku":"151697"},{"name":"Weihnachtsmix","motifs":"Verschiedene Weihnachtssprüche in mehreren Schriften","topics":"Weihnachten, Advent, Grüße, Neujahr, Fest, Brief","phrases":["Guten Rutsch!","Vom Christkind","Viele liebe Weihnachtsgrüße","Ein gesegnetes Weihnachtsfest","Frieden im Advent","Weihnachtspost","Herzliche Festtagsgrüße","Frohe Feiertage","Fröhliche Weihnachten","Schöne Weihnachten","Erfüll dir einen Wunsch","Frohe Weihnachten und viel Glück im neuen Jahr","Wir wünschen Ihnen schöne Feiertage","Fest zur Bescherung öffnen!","O du Leckere","Aus der Ferne liebe Grüße zum Fest"],"location":"","imageKey":"/seed/150735.jpg","sku":"150735"},{"name":"Weihnachtsfreude im Glas","motifs":"Einmachglas, Lebkuchenmann, Stern, Herz, Schneemann, Christbaumkugel","topics":"Weihnachten, Winter, Glas, Schneemann, Lebkuchen, Geschenk","phrases":["Ganz viel Weihnachtsfreude","Endlich wieder Plätzchenzeit","Zum Fest viele süße Stunden"],"location":"","imageKey":"/seed/166180.jpg","sku":"166180"},{"name":"Winterwald","motifs":"Tannenbaum, kahle Winterbäume, Birkenstämme, Zapfen, Tannenzweig","topics":"Winter, Wald, Tannenbaum, Weihnachten, Natur, Neuanfang","phrases":["Jeder Tag ist ein neuer Anfang"],"location":"","imageKey":"/seed/151683.jpg","sku":"151683"},{"name":"Wichtelweihnacht","motifs":"Weihnachtswichtel, Wichteltür, Weihnachtsbaum, Lichterkette","topics":"Weihnachten, Wichtel, Advent, Winter, Grüße","phrases":["Mit Liebe gemacht, weil du mir wichtig bist","Kleiner Weihnachtsgruß","Geschenk für dich aus der Wichtelwerkstatt","Fröhliche Weihnachten!"],"location":"","imageKey":"/seed/155976.jpg","sku":"155976"},{"name":"Wonderful World","motifs":"Kornblumen, Rose, Iris, Blätter","topics":"Blumen, Pflanzen, Rose, Natur, englischer Setname","phrases":[],"location":"","imageKey":"/seed/159916.jpg","sku":"159916"},{"name":"Werkstattworte","motifs":"Sportwagen, Werkzeugkasten, Schrauben, Ölkanne, Kleckse","topics":"Auto, Werkstatt, Werkzeug, Vatertag, Männer, Vater","phrases":["Für einen echten Klassiker!","Du bist nicht der Hammer. Du bist der ganze Werkzeugkasten!","Du bist der Renner","Schönen Vatertag","Bester Papa"],"location":"","imageKey":"/seed/149154.jpg","sku":"149154"},{"name":"Wunderbare Welt","motifs":"Globus, Kompass, Feder, Tintenfass","topics":"Welt, Reise, Abenteuer, Neuanfang, Dank, Glückwunsch","phrases":["Die Welt ist nicht perfekt","Das Abenteuer beginnt!","Aber dank dir viel schöner","Heute dreht sich alles nur um dich","Glückwunsch und alles Gute zum Neuanfang"],"location":"","imageKey":"/seed/153000.jpg","sku":"153000"},{"name":"Wünsche aus dem Garten","motifs":"Pusteblume, Löwenzahn, Biene, Blüten, Samenstände","topics":"Garten, Blumen, Löwenzahn, Pusteblume, Wünsche, Geschenk, Freundschaft","phrases":["Schließ die Augen und wünsch dir was!","Die besten Wünsche","Mit Liebe gemacht","Gruß aus der Ferne","Von uns allen","Hallo"],"location":"","imageKey":"/seed/154594.jpg","sku":"154594"},{"name":"Wunderschöne Werke","motifs":"Gräserrand, Zweige, Blätter, Beerenzweig, Herz mit Textstruktur","topics":"Natur, Zweige, Freundin, Dank, Begrüßung","phrases":["Für eine wahre Freundin","Besten Dank","Hallo"],"location":"","imageKey":"/seed/161199.jpg","sku":"161199"},{"name":"Wie Muscheln","motifs":"Muscheln, Schneckenhäuser, Seestern, Sanddollar, Seegras, Sand und Farbflecken","topics":"Meer, Strand, Muscheln, Küste, Freundschaft, Dank, Urlaub","phrases":["Alles Liebe und einen wunderbaren Tag","Du bist einzigartig und wirklich ein Schatz","Freunde sind wie Muscheln ... die besten behält man für immer","Allerbeste Wünsche von uns","Schön, dich gefunden zu haben","Für dich","Danke für alles","Wenn du mal Meer willst"],"location":"","imageKey":"/seed/154372.jpg","sku":"154372"},{"name":"Wie ein Diamant","motifs":"Typografische Sprüche für Mutter, Freundin und Frau","topics":"Muttertag, Mama, Frau, Freundin, Dank, Ermutigung","phrases":["Alles Liebe zum Muttertag","Für die liebste Mama und eine wahre Freundin","Hab dich unglaublich lieb!","Für eine Frau, die immer so viel gibt","Das Beste an mir habe ich von dir.","Für die Frau, die mir gezeigt hat, was innere Kraft bedeutet.","Danke, dass du immer für mich da bist.","Du bist wie ein Diamant wertvoll, stark und wunderschön","Du bist fantastisch. Punkt.","Folge deinen Träumen. Ich geb dir Rückenwind!","Was für ein gutes Gefühl, dass ich immer auf dich zählen kann!","Du kannst alles schaffen & ich bin so stolz auf dich"],"location":"","imageKey":"/seed/149218.jpg","sku":"149218"},{"name":"Wünsche und Worte","motifs":"Kombinierbare Textstempel in Druckschrift und Schreibschrift","topics":"Geburtstag, Hochzeit, Einladung, Glückwunsch, Danke, Gruß","phrases":["Glückwunsch","Hochzeitstag","Großen Tag","Zum Geburtstag","Danke","Herzlichen","Einladung","Beste","Besonderen","Geburtstag","Vielmals","Wünsche","Ich wünsch dir heute einen Tag voller Glück","Hallo","Herzenssache","Liebe","Glückwunsch"],"location":"","imageKey":"/seed/165088.jpg","sku":"165088"},{"name":"Vintage-Blüten","motifs":"Vintage Blumenstrauß, Blüten, Blätter, Ranke","topics":"Blumen, Vintage, Hochzeit, Ehrentag, Abschied, Freundschaft, Dank","phrases":["Alles Gute zu deinem Ehrentag","Lieben Dank","Wir nehmen Abschied","Einladung zur Hochzeit","Genieße die kleinen Dinge, denn sie machen das Leben großartig","Danke für deine Freundschaft"],"location":"","imageKey":"/seed/158123.jpg","sku":"158123"},{"name":"Vom größten Fan","motifs":"Wimpel, Schildrahmen, Sterne, Sprenkel","topics":"Vatertag, Papa, Vater, Geburtstag, Fan, Lob","phrases":["Für den besten Papa","Von deinem größten Fan","Immer Nummer 1","Schönen Vatertag für dich","Zum Geburtstag","Hurra"],"location":"","imageKey":"/seed/158064.jpg","sku":"158064"},{"name":"Uniquely Artistic","motifs":"Abstrakte Blüten, Blütenzweige, Blätter, botanische Aquarellflächen","topics":"Blumen, Pflanzen, Kunst, Hintergründe, Englisch","phrases":[],"location":"","imageKey":"/seed/158935.jpg","sku":"158935"},{"name":"Über den Wolken","motifs":"Heißluftballons, Wolken, Vögel, Wimpelkette, Herz","topics":"Ballon, Himmel, Reise, Neuanfang, Ermutigung, Träume","phrases":["Auf zu neuen Horizonten!","Träume sind nie zu groß.","Du gibst mir Rückenwind.","Luftpost für dich","Lass dich mal treiben!"],"location":"","imageKey":"/seed/150261.jpg","sku":"150261"},{"name":"Volle Möhre","motifs":"Karotten, Möhrengrün, Blätter, Punkte","topics":"Ostern, Karotten, Möhre, Gemüse, Freundschaft, Humor","phrases":["Volle Möhre","Alles trübe? Da hilft ’ne Rübe!","Vegane Ostergrüße","Hallöchen","Mag dich","Da schau an!","Gib","Wir sind zusammen gewachsen"],"location":"","imageKey":"/seed/160820.jpg","sku":"160820"},{"name":"Vollendet verziert","motifs":"Symmetrische Zierornamente, dekorative Ecke, Herz","topics":"Ornament, Verzierung, Lob, Geschenk, Liebe","phrases":["Du bist einfach Spitzenklasse","Alles, alles Liebe","Für dich"],"location":"","imageKey":"/seed/150026.jpg","sku":"150026"},{"name":"Very Versailles","motifs":"Barocker Rahmen, Blätterzweig, Bordüre, Handschrift-Hintergrund","topics":"Vintage, Barock, Ornament, Dank, Englisch","phrases":["Always thinking of you","Have a beautiful day","Thank you"],"location":"","imageKey":"/seed/149275.jpg","sku":"149275"},{"name":"Two-Tone Flora","motifs":"Mehrteilige Blüten, Blumen, Blätter, Zweige","topics":"Blumen, Blüten, Pflanzen, Frühling, Natur, Englisch","phrases":[],"location":"","imageKey":"/seed/160844.jpg","sku":"160844"},{"name":"Tintenträume","motifs":"Kolibri, Schmetterling, Blumen, Blätter, Aquarellformen, Sprenkel","topics":"Natur, Schmetterling, Kolibri, Blumen, Dank, Gruß","phrases":["Beste Wünsche","Liebes Dankeschön","Hallo","Ich schicke dir einen Gruß","Für dich","Alles wird gut"],"location":"","imageKey":"/seed/155262.jpg","sku":"155262"},{"name":"Tulpengrüße","motifs":"Tulpenblüten, Blätter, Stängel","topics":"Tulpen, Frühling, Ostern, Muttertag, Geburtstag, Trost, Genesung","phrases":["Die Erinnerung an gestern gibt uns Trost und Kraft für morgen","Frohe Ostern weit und breit und eine schöne Frühlingszeit","Na du?","Es ist soooo schön, dass es dich gibt!","Alles Liebe zum Muttertag","Gute Besserung!","Geburtstagsblumen für dich"],"location":"","imageKey":"/seed/152212.jpg","sku":"152212"},{"name":"Tannen & Karos","motifs":"Weihnachtsbäume, Tannen, Zapfen, Karomuster","topics":"Weihnachten, Tannenbaum, Winter, Fest, Post","phrases":["Nach diesem turbulenten Jahr ein ruhiges und schönes Weihnachtsfest","Weihnachtspost für dich","Frohe Weihnachten","Ho, ho, ho!","Mit den besten Wünschen für fröhliche und erholsame Feiertage"],"location":"","imageKey":"/seed/150308.jpg","sku":"150308"},{"name":"Tune In","motifs":"Fernseher, Blitz, Pixel, Glitzersterne, Antenne","topics":"Fernseher, Retro, Geburtstag, Nachricht, Englisch","phrases":["You’re Super","Stay tuned for an important message","News Flash","Happy Birthday","You’re Classic"],"location":"","imageKey":"/seed/163633.jpg","sku":"163633"},{"name":"Storybook Garden Patch","motifs":"Erbsen, Radieschen, Erdbeeren, Karotte, Salat, Gießkanne, Gartengeräte, Blumentöpfe","topics":"Garten, Gemüse, Erdbeere, Karotte, Pflanzen, Gießkanne, Englisch","phrases":[],"location":"","imageKey":"/seed/164663.jpg","sku":"164663"},{"name":"Sprache des Herzens","motifs":"Blütenherz, Blumen, Blätter","topics":"Hochzeit, Liebe, Herz, Geschenk, Danke","phrases":["Mit Liebe geschenkt","Zur Hochzeit","Unsere Herzen schlagen im gleichen Takt","Für euch zwei","Danke"],"location":"","imageKey":"/seed/164952.jpg","sku":"164952"},{"name":"Schneeflockenwünsche","motifs":"Schneeflocken, Eiskristalle, Schneegestöber","topics":"Winter, Schnee, Schneeflocke, Weihnachten, Fest, Dank","phrases":["Glitzernde Grüße zum Fest","Danke, du bist einmalig","Ein Hauch Winterzauber zum Weihnachtsfest","Egal wie kalt es draußen ist, beim Gedanken an dich wird mir warm ums Herz","Wünsch dir was!","Vom Himmel gefallen und für dich gefangen"],"location":"","imageKey":"/seed/153773.jpg","sku":"153773"},{"name":"Sternenglanz","motifs":"Weihnachtssterne in verschiedenen Formen, Funkeln, Sternenstaub","topics":"Weihnachten, Sterne, Fest, Freude, Glück, Liebe","phrases":["Strahlend schöne Weihnachten und jede Menge Lichtblicke im neuen Jahr","Frohe Feiertage!","Grüße mit Sternenglanz und Weihnachtszauber","In dieser Karte stecken so viele gute Wünsche, wie Sterne am Himmel stehen.","Sein schönstes Sternenkleid trägt der Himmel zur Weihnachtszeit","Freude","Liebe","Glück"],"location":"","imageKey":"/seed/150729.jpg","sku":"150729"},{"name":"Stars at Night","motifs":"Weihnachtssterne, Sternschnuppen, Funkeln, Zweige","topics":"Weihnachten, Sterne, Winter, Grüße, Englisch","phrases":["Celebrating the magic of the season","Merry Christmas","Wishing you the best & brightest holiday season"],"location":"","imageKey":"/seed/162000.jpg","sku":"162000"},{"name":"Süße Seemöwen","motifs":"Möwen, fliegende Vögel, Fische, Pommes, Muscheln, Meer","topics":"Meer, Möwen, Küste, Strand, Pommes, Freundschaft, Gruß","phrases":["Hey du!","Mag dich mehr als Pommes","Meerweh?","Moin!"],"location":"","imageKey":"/seed/165053.jpg","sku":"165053"},{"name":"Schmetterlingsgruß","motifs":"Schmetterling, Blumen, Farnblatt, Wabenmuster, Bordüre","topics":"Schmetterling, Geburtstag, Natur, Aufmunterung, Blumen","phrases":["Schönen Geburtstag","Das Glück ist ein Schmetterling. Jag ihm nach, und er entwischt dir. Setz dich hin, und er lässt sich auf deiner Schulter nieder.","Sende dir eine Umarmung und liebe Grüße"],"location":"","imageKey":"/seed/138355.jpg","sku":"138355"},{"name":"Schmetterlingsglück","motifs":"Verschiedene Schmetterlinge, Flügel, Fühler","topics":"Schmetterlinge, Natur, Dank, Geburtstag, Glückwunsch","phrases":["Alles Schwere macht uns stärker","Schön, dass du da bist!","Danke von Herzen","Zum Geburtstag alles Glück der Welt","Beste Wünsche"],"location":"","imageKey":"/seed/149098.jpg","sku":"149098"},{"name":"Schön verschnörkelt","motifs":"Schnörkel, Zierblumen, kleiner Vogel, Blätter, Herzen","topics":"Ornament, Vogel, Blumen, Geburtstag, Danke, Gruß","phrases":["Zum Geburtstag","Vielen Dank","Hallo","Für dich"],"location":"","imageKey":"/seed/158000.jpg","sku":"158000"},{"name":"Sag’s mit Tulpen","motifs":"Tulpenblüten, Tulpenblätter, Stiele, Sprenkel","topics":"Tulpen, Blumen, Muttertag, Geburtstag, Dank, Neuanfang","phrases":["Vielen Dank an einen lieben Menschen","Für die allerbeste Mama!","Ich hoffe, dein Geburtstag ist so toll wie du","Mit Liebe gemacht","Ich denke oft an dich","Genau heute ist der perfekte Tag für einen Neuanfang"],"location":"","imageKey":"/seed/157676.jpg","sku":"157676"},{"name":"Scenic Garden","motifs":"Gartenbank, blühender Torbogen, Gartentor, Blumentopf, Steinweg","topics":"Garten, Bank, Blumen, Torbogen, Natur, Englisch","phrases":[],"location":"","imageKey":"/seed/160831.jpg","sku":"160831"},{"name":"Süßes Sternchen","motifs":"Lebkuchenstern, Weihnachtsmann, Weihnachtsfrau, Schneeflocken","topics":"Weihnachten, Plätzchen, Backen, Stern, Schnee, Fest","phrases":["Schöne Feiertage mit Zeit zum Genießen","O du Leckere","Süße Grüße","Auf die Plätzchen, fertig, los!"],"location":"","imageKey":"/seed/164294.jpg","sku":"164294"},{"name":"Setz die Segel","motifs":"Segelboote, Leuchtturm, Anker, Kompass, Seil, Möwen","topics":"Meer, Segeln, Leuchtturm, Reise, Freundschaft, Dank, Glückwunsch","phrases":["Du bist mein sicherer Hafen","Freundschaft gibt Halt in den stürmischen Zeiten des Lebens","Setz die Segel und nimm Kurs auf deine Träume","Danke","Glückwunsch"],"location":"","imageKey":"/seed/150212.jpg","sku":"150212"},{"name":"Schöne Überraschung","motifs":"Torte, Kerze, Herz mit Tulpen, Blume","topics":"Geburtstag, Überraschung, Geschenk, Wünsche, Liebe","phrases":["Wünsch dir einen schönen Geburtstag","Du hast dir doch nichts gewünscht, oder?","Du bist einfach wunderbar","Wünsch dir was!","Kleine Überraschung mit Liebe","Du bist die Beste","Hier öffnen","Für dich"],"location":"","imageKey":"/seed/162855.jpg","sku":"162855"},{"name":"Schneckenpost","motifs":"Schnecken mit Brief und Geschenk, Pilze, Herz, Sprechblase","topics":"Post, Brief, Schnecke, Geschenk, Glück, Verspätung","phrases":["Post für dich","Glück per Post","Hallo","Zu spät, aber mit Liebe!"],"location":"","imageKey":"/seed/154639.jpg","sku":"154639"},{"name":"Süßes Bonbonglas","motifs":"Bonbonglas, Süßigkeiten, Blüten, Herzen, Kerzen, Konfetti","topics":"Geburtstag, Süßigkeiten, Bonbons, Geschenk, Party, Glück","phrases":["Zum Geburtstag","Für Notfälle","Eine süße Kleinigkeit","Eine Portion","Naschkram","To go","Liebe","Glück","Party"],"location":"","imageKey":"/seed/165505.jpg","sku":"165505"},{"name":"Sag’s mit Blüten","motifs":"Kleine Blüten, Blätter, Zierzweige, Schrift mit langen Linien","topics":"Blumen, Dank, Einladung, Gruß, Genesung","phrases":["Danke","Für dich","Für euch","Alles Gute","Post für dich","Gute Besserung","Einladung","Ich denk an dich"],"location":"","imageKey":"/seed/165713.jpg","sku":"165713"},{"name":"Stilvolle Stiefmütterchen","motifs":"Stiefmütterchen in mehreren Lagen, Blätter, Stiele","topics":"Blumen, Stiefmütterchen, Geburtstag, Dank, Gruß, Trost","phrases":["Hier kommt ein Blumengruß, weil ich an dich denke","Mit kleinen Dingen bewirkst du so viel","Besten Dank","Alles Gute zum Geburtstag","Fühl dich gedrückt","Kleiner Gruß von mir für dich"],"location":"","imageKey":"/seed/155677.jpg","sku":"155677"},{"name":"So gut wie perfekt","motifs":"Geburtstagsballon, Wunderkerzen, typografische Sprüche","topics":"Geburtstag, Humor, nachträglicher Glückwunsch, Alter","phrases":["Die schlechte Nachricht: Ich hab deinen Geburtstag vergessen. Die gute Nachricht: Dein Alter auch.","Wieder ein Jahr älter. Na und? Du bist und bleibst umwerfend!","Schönen Geburtstag!","Manches wird mit dem Alter immer besser. Du bist schon so gut wie perfekt.","Eilmeldung: Geburtstage verlängern offenbar das Leben!"],"location":"","imageKey":"/seed/155288.jpg","sku":"155288"},{"name":"Seite an Seite","motifs":"Menschen in Umarmung, Freundesgruppe, Solidaritätsschleife","topics":"Freundschaft, Unterstützung, Trost, Krankheit, Genesung, Zusammenhalt","phrases":["Zusammen ist alles möglich","Bis du wieder gesund bist","Du kannst auf mich zählen","Unterstützung","Danke für deine","Ich bin für dich da","Wir wünschen dir viel Kraft","Du hast mein vollstes"],"location":"","imageKey":"/seed/149829.jpg","sku":"149829"},{"name":"Rustikaler Strauß","motifs":"Herzen aus Blumen und Blättern, kleine Zweige, Blüten","topics":"Valentinstag, Liebe, Freundschaft, Herz, Blumen","phrases":["Frohen Valentinstag!","Weil ich dich mag ...","Mit Liebe für dich","Freundschaft ist Herzenssache","Ich liebe dich"],"location":"","imageKey":"/seed/160381.jpg","sku":"160381"},{"name":"Romantische Ranunkeln","motifs":"Ranunkeln, Zweig, Bordüre, Poststempel, handschriftlicher Hintergrund","topics":"Ranunkeln, Blumen, Vintage, Brief, Post, Dank","phrases":["Danke, dass du für mich da bist","Nur für dich","Post für dich","Hallo"],"location":"","imageKey":"/seed/157974.jpg","sku":"157974"},{"name":"Painted Poppies","motifs":"Mohnblumen, Blütenwiese, Blätter, Aquarellfläche, Farbspritzer","topics":"Mohn, Blumen, Wiese, Aquarell, Pflanzen, Englisch","phrases":[],"location":"","imageKey":"/seed/151599.jpg","sku":"151599"},{"name":"Runde Sache","motifs":"Kreismotive, florale Girlanden, Muscheln, Sonne, Wellen, Cupcake","topics":"Geburtstag, Meer, Muscheln, Kuchen, Dank, Gruß","phrases":["Alles Gute","Ich denk heute an dich","Ich sende dir ein","Mit lieben Grüßen","Hallo","Lächeln","Dankeschön","Happy Birthday","Glückwunsch"],"location":"","imageKey":"/seed/161352.jpg","sku":"161352"},{"name":"Pop of Petals","motifs":"Grafische Blüten, Blätter, Ranken, Schmetterling","topics":"Blumen, Schmetterling, Blätter, Natur, Englisch","phrases":[],"location":"","imageKey":"/seed/146649.jpg","sku":"146649"},{"name":"Post vom Nikolaus","motifs":"Nikolaus, Weihnachtsmann, Geschenkesack, Briefkasten, Süßigkeiten","topics":"Weihnachten, Nikolaus, Weihnachtsmann, Geschenke, Post","phrases":["Post vom Nikolaus","Hier kommt ein lieber Gruß von mir. Schönen Nikolaustag wünsch ich dir","Genieß die Weihnachtszeit mit all ihren Gaben","Lasst uns froh & munter sein"],"location":"","imageKey":"/seed/162105.jpg","sku":"162105"}];
+export default [
+  {
+    "name": "All Squared Away",
+    "motifs": "Vier quadratische Hintergrundmuster: Striche, Punkte, Wellen und Schleifen",
+    "topics": "Geburtstag, Freundschaft, Muster, Hintergründe, Englisch",
+    "phrases": [
+      "Happiest of birthdays to you!",
+      "You are SO worth celebrating!",
+      "...like our FRIENDSHIP.",
+      "Good things GROW...",
+      "The BEST thing about today is YOU!"
+    ],
+    "location": "",
+    "imageKey": "/seed/155087.jpg",
+    "sku": "155087"
+  },
+  {
+    "name": "Alles Glück",
+    "motifs": "Rosen, Blüten, Blumensträuße, Blätter",
+    "topics": "Geburtstag, Glückwunsch, Blumen, Danke, Freundschaft",
+    "phrases": [
+      "Ein großes Dankeschön für alles",
+      "Wir wünschen dir alles Glück der Welt",
+      "Zum Geburtstag",
+      "Viel Freude",
+      "Weißt du, wie wundervoll du bist?",
+      "Glückwunsch",
+      "Beste Wünsche"
+    ],
+    "location": "",
+    "imageKey": "/seed/159242.jpg",
+    "sku": "159242"
+  },
+  {
+    "name": "Alles im Block",
+    "motifs": "Herzen, Sterne, Spritzer, Pinselstriche, Textur",
+    "topics": "Glückwunsch, Willkommen, Dank, Geschenk, Lob",
+    "phrases": [
+      "Herzlichen Glückwunsch",
+      "Hallöchen",
+      "Toll gemacht",
+      "Willkommen",
+      "Für dich",
+      "Von mir",
+      "Danke"
+    ],
+    "location": "",
+    "imageKey": "/seed/152278.jpg",
+    "sku": "152278"
+  },
+  {
+    "name": "Alphabest",
+    "motifs": "Alphabet, Zahlen, Umlaute, Satzzeichen, Etiketten, Sterne, Blume",
+    "topics": "Alphabet, Buchstaben, Zahlen, Schrift, Etiketten",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/158884.jpg",
+    "sku": "158884"
+  },
+  {
+    "name": "Am Horizont",
+    "motifs": "Bäume, Holzstruktur, Gras, Vögel",
+    "topics": "Trauer, Abschied, Dank, Entspannung, Natur, Neuanfang",
+    "phrases": [
+      "In stillem Gedenken",
+      "Danke für alles",
+      "Atme durch",
+      "Entspann dich & genieß deinen Tag",
+      "Am Horizont warten neue Wege"
+    ],
+    "location": "",
+    "imageKey": "/seed/157776.jpg",
+    "sku": "157776"
+  },
+  {
+    "name": "Am Waldrand",
+    "motifs": "Reh, Bäume, Wald, Gras, Waldlandschaft",
+    "topics": "Wald, Natur, Tiere, Reh, Trost, Danke, Ermutigung",
+    "phrases": [
+      "Manchmal hilft es zu wissen, dass jemand dich versteht",
+      "Zum Beispiel ich",
+      "Denk positiv",
+      "Danke dir"
+    ],
+    "location": "",
+    "imageKey": "/seed/157842.jpg",
+    "sku": "157842"
+  },
+  {
+    "name": "Auf Spritztour",
+    "motifs": "Cabrio mit Luftballons, Bus, Auto mit Geschenken",
+    "topics": "Auto, Reise, Fahrt, Geburtstag, Einladung, Geschenk",
+    "phrases": [
+      "Gute Fahrt!",
+      "Mit jedem Jahr wertvoller",
+      "Einladung zum Geburtstag"
+    ],
+    "location": "",
+    "imageKey": "/seed/158105.jpg",
+    "sku": "158105"
+  },
+  {
+    "name": "Aus dem Ozean",
+    "motifs": "Krabben, Hummer, Koralle, Algen, Blasen",
+    "topics": "Meer, Ozean, Strand, maritime Einladung, Urlaub",
+    "phrases": [
+      "Einladung",
+      "Kleiner Gruß",
+      "Zeit für Meer"
+    ],
+    "location": "",
+    "imageKey": "/seed/164689.jpg",
+    "sku": "164689"
+  },
+  {
+    "name": "Aus der Kreativwerkstatt",
+    "motifs": "Schreibschriftalphabet, Druckbuchstaben, Zahlen, Zeichen, kleiner Zweig",
+    "topics": "Alphabet, Buchstaben, Zahlen, Handgemacht, Etikett, Karte",
+    "phrases": [
+      "Nur für dich gebastelt",
+      "Selbst gemacht von",
+      "Gestaltet von",
+      "Aus der Kreativwerkstatt von",
+      "#sendacard",
+      "#makeacard",
+      "Ich gehöre:",
+      "Mit Liebe gemacht",
+      "Zu übergeben an"
+    ],
+    "location": "",
+    "imageKey": "/seed/148195.jpg",
+    "sku": "148195"
+  },
+  {
+    "name": "Aus der Natur",
+    "motifs": "Blüten, Zweige, Farn, Farbspritzer",
+    "topics": "Natur, Blumen, Pflanzen, Dank, Glückwunsch, Erinnerung",
+    "phrases": [
+      "Für immer unvergessen",
+      "Wir heiraten",
+      "Ein herzliches Dankeschön",
+      "Beste Wünsche und viel Glück"
+    ],
+    "location": "",
+    "imageKey": "/seed/158799.jpg",
+    "sku": "158799"
+  },
+  {
+    "name": "Bannereien",
+    "motifs": "Schriftbanner, Banderolen, Zierlinien, Blätter, Zweige, Blüte",
+    "topics": "Glückwunsch, Hochzeitstag, Geburtstag, Einladung, Grüße, Dank",
+    "phrases": [
+      "Viel Glück",
+      "Mach’s gut &",
+      "Alles Gute",
+      "Einladung",
+      "Zum Hochzeitstag",
+      "Für euch!",
+      "Für dich!",
+      "Danke",
+      "Toll gemacht!",
+      "Von mir",
+      "Kleiner Gruß",
+      "Nur so",
+      "Du bist klasse",
+      "Alles Liebe",
+      "Glückwunsch",
+      "Hallo",
+      "Vielen Dank",
+      "Danke schön",
+      "Herzlichen",
+      "Guten Appetit",
+      "Drück dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/142457.jpg",
+    "sku": "142457"
+  },
+  {
+    "name": "Baum gut, alles gut",
+    "motifs": "Tannenbäume, Christbäume, Lichterkette, Pfotenabdrücke, Katze, Sterne, Christbaumverkaufsschild",
+    "topics": "Weihnachten, Winter, Tannenbaum, Christbaum, Katze",
+    "phrases": [
+      "Weihnachtsgrüße",
+      "Vorfreude, schönste Freude",
+      "Baum gut, alles gut",
+      "Christbaumverkauf"
+    ],
+    "location": "",
+    "imageKey": "/seed/159787.jpg",
+    "sku": "159787"
+  },
+  {
+    "name": "Baumzauber",
+    "motifs": "Weihnachtsbäume, Tannenbäume, Christbaumkugeln, Stechpalme, Schneepunkte",
+    "topics": "Weihnachten, Feiertage, Neujahr, Winter, Christbaum",
+    "phrases": [
+      "Schöne Feiertage und viele magische Momente im neuen Jahr",
+      "Weihnachten ist, wenn unterm Baum Liebe und Freude liegen",
+      "Grüße voller Baumzauber",
+      "Zum Fest"
+    ],
+    "location": "",
+    "imageKey": "/seed/156336.jpg",
+    "sku": "156336"
+  },
+  {
+    "name": "Beauty of the Deep",
+    "motifs": "Anker, Fische, Korallen, Seefächer, Seeigel, Seegras, Meeresalgen, Sprenkel",
+    "topics": "Meer, Ozean, Unterwasserwelt, Fische, maritim",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/161233.jpg",
+    "sku": "161233"
+  },
+  {
+    "name": "Beerenstark",
+    "motifs": "Erdbeeren, Erdbeerblätter, Blüten, Erdbeerpflanze",
+    "topics": "Erdbeeren, Beeren, Sommer, Dank, Grüße",
+    "phrases": [
+      "Süße Grüße",
+      "Nur für dich",
+      "Genieß an deinem Tag das süße Leben",
+      "Du bist einfach beerenstark",
+      "Vielen Dank"
+    ],
+    "location": "",
+    "imageKey": "/seed/154946.jpg",
+    "sku": "154946"
+  },
+  {
+    "name": "Bezaubernd botanisch",
+    "motifs": "Botanische Zweige, Blätter, Farn, Blüten",
+    "topics": "Botanik, Pflanzen, Danke, Grüße, Wertschätzung",
+    "phrases": [
+      "Für einen großartigen Menschen",
+      "Ich möchte dir Danke sagen",
+      "Mit lieben Gedanken"
+    ],
+    "location": "",
+    "imageKey": "/seed/158918.jpg",
+    "sku": "158918"
+  },
+  {
+    "name": "Bezaubernde Grüße",
+    "motifs": "Rosen, Blüten, Blätter, Zweig",
+    "topics": "Blumen, Danke, Wiedersehen, Freundschaft, Grüße",
+    "phrases": [
+      "Danke für die schöne Zeit",
+      "Hey",
+      "Du hast mir den Tag versüßt",
+      "Alles Gute",
+      "Freu mich schon aufs nächste Wiedersehen"
+    ],
+    "location": "",
+    "imageKey": "/seed/166132.jpg",
+    "sku": "166132"
+  },
+  {
+    "name": "Bezaubernder Blauregen",
+    "motifs": "Blauregen, Blütenrispen, Blätter, Zweige",
+    "topics": "Blumen, Blauregen, Zukunft, Hochzeit, Trost, Trauer",
+    "phrases": [
+      "Glauben heißt vertrauen",
+      "Alles Liebe für eure Zukunft",
+      "Bleib, wie du bist, denn du bist wundervoll",
+      "In stiller Trauer",
+      "Auch wenn wir es nicht verstehen"
+    ],
+    "location": "",
+    "imageKey": "/seed/159438.jpg",
+    "sku": "159438"
+  },
+  {
+    "name": "Bienenliebe",
+    "motifs": "Bienen, Blüten, Blütenzweige, Wildblumen",
+    "topics": "Bienen, Blumen, Familie, Neubeginn, Erfolg, Vermissen",
+    "phrases": [
+      "Zum Neuanfang",
+      "Du und ich, das ist Familie",
+      "Glück und Erfolg",
+      "Vermisse dich",
+      "Bleib so, wie du bist!",
+      "Wie schön für dich!"
+    ],
+    "location": "",
+    "imageKey": "/seed/157949.jpg",
+    "sku": "157949"
+  },
+  {
+    "name": "Birch",
+    "motifs": "Birkenrinde, Birkenstamm, Holzmaserung",
+    "topics": "Birke, Baum, Wald, Holz, Hintergrundstempel",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/149256.jpg",
+    "sku": "149256"
+  },
+  {
+    "name": "Blumige Überraschung",
+    "motifs": "Blumen, Blüten, Blätter, Zweige, Punkte, Zierbordüre",
+    "topics": "Blumen, Dank, Glückwunsch, Wertschätzung",
+    "phrases": [
+      "Vielen Dank",
+      "Ich bin immer verblüfft, aber nie überrascht davon, wie lieb du bist",
+      "Herzlichen Glückwunsch!"
+    ],
+    "location": "",
+    "imageKey": "/seed/152751.jpg",
+    "sku": "152751"
+  },
+  {
+    "name": "Blüten des Augenblicks",
+    "motifs": "Blumen, Blüten, Blätter, Zweige, Stiele, Schleife, Pflanzen",
+    "topics": "Blumen, Geburtstag, Hochzeit, Hochzeitstag, Liebe, Erinnerung, Dank",
+    "phrases": [
+      "Wir wünschen euch einen Tag voller Liebe und schöner Erinnerungen",
+      "Möge eure Liebe Tag für Tag weiter wachsen",
+      "Blumiges Dankeschön",
+      "Gefolgt von vielen Tagen & Jahren voller Glück",
+      "Durch die Blume: Ich bin so froh, dich zu haben",
+      "Herzlichen Glückwunsch",
+      "Zur Hochzeit alles Gute",
+      "Alles Liebe zum Hochzeitstag",
+      "Kleiner Geburtstagsstrauß",
+      "Liebe ist die Blüte des Augenblicks ...",
+      "Doch auch die Frucht der Zeit.",
+      "Seite an Seite",
+      "Immer & ewig",
+      "Hallo",
+      "Für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/144387.jpg",
+    "sku": "144387"
+  },
+  {
+    "name": "Blüten-Impressionen",
+    "motifs": "Blüten, Blütenblätter, Blätter, Blütenmitten, Stiele",
+    "topics": "Blumen, Danke, Freundschaft, Wertschätzung",
+    "phrases": [
+      "Wunscherfüller",
+      "Dass du für mich da bist",
+      "Danke euch vielmals"
+    ],
+    "location": "",
+    "imageKey": "/seed/165609.jpg",
+    "sku": "165609"
+  },
+  {
+    "name": "Blütengruß",
+    "motifs": "Blumen, Blüten, Blätter, Blütenzweige, Biene, Sprenkel",
+    "topics": "Blumen, Geburtstag, Dank, Grüße, Freundschaft",
+    "phrases": [
+      "Damit dein Tag schöner wird",
+      "Vielen Dank",
+      "Blütenzauber für dich",
+      "Zum Geburtstag viel Glück",
+      "Mit lieben Grüßen",
+      "Du bist echt lieb"
+    ],
+    "location": "",
+    "imageKey": "/seed/160808.jpg",
+    "sku": "160808"
+  },
+  {
+    "name": "Buffalo Check",
+    "motifs": "Karomuster, Vichykaros, kariertes Hintergrundmuster",
+    "topics": "Karo, Karomuster, Hintergrundstempel, Muster",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/151372.jpg",
+    "sku": "151372"
+  },
+  {
+    "name": "Coming Home",
+    "motifs": "Häuser, Laterne, Auto, Bäume, Tannenbäume, Weihnachtskranz, Sterne",
+    "topics": "Haus, Zuhause, Weihnachten, Winter, Dorf",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/153500.jpg",
+    "sku": "153500"
+  },
+  {
+    "name": "Daffodil Daydream",
+    "motifs": "Narzissen, Osterglocken, Schmetterling, Schmuckbordüre, Sprenkel",
+    "topics": "Ostern, Muttertag, Frühling, Blumen, Englisch",
+    "phrases": [
+      "Happy Mother’s Day",
+      "Easter Blessings"
+    ],
+    "location": "",
+    "imageKey": "/seed/157786.jpg",
+    "sku": "157786"
+  },
+  {
+    "name": "Das Gelbe vom Ei",
+    "motifs": "Hühner, Hahn, Henne, Küken, Ei",
+    "topics": "Ostern, Geburtstag, Glück, Huhn",
+    "phrases": [
+      "Viel Glück!",
+      "Du bist das Gelbe vom Ei!",
+      "Nicht von der Stange und nur für dich!"
+    ],
+    "location": "",
+    "imageKey": "/seed/158196.jpg",
+    "sku": "158196"
+  },
+  {
+    "name": "Dekorative Weihnachtsbäume",
+    "motifs": "Weihnachtsbäume, Tannenbaum, Sterne, Christbaumkugeln, Schleife, Zierbordüren",
+    "topics": "Weihnachten, Feiertage, Winter, Christbaum",
+    "phrases": [
+      "O Tannenbaum",
+      "Schöne Feiertage",
+      "O du fröhliche Weihnachtszeit",
+      "für dich",
+      "Liebste Wünsche zum Fest"
+    ],
+    "location": "",
+    "imageKey": "/seed/164277.jpg",
+    "sku": "164277"
+  },
+  {
+    "name": "Denkwürdige Dahlien",
+    "motifs": "Dahlien, Blüten, Blätter, zweistufige Blumenstempel",
+    "topics": "Blumen, Dank, Mitgefühl, Trauer, Wertschätzung",
+    "phrases": [
+      "Vielen Dank",
+      "In tiefem Mitgefühl",
+      "Du inspirierst mich",
+      "Es war schön bei euch"
+    ],
+    "location": "",
+    "imageKey": "/seed/156605.jpg",
+    "sku": "156605"
+  },
+  {
+    "name": "Der Beste",
+    "motifs": "Krawatten, Fliegen, Schleifen",
+    "topics": "Vatertag, Papa, Geburtstag, Dank, Männer",
+    "phrases": [
+      "Schönen Geburtstag lieber Papa",
+      "Zum Vatertag alles Liebe",
+      "Vielen Dank",
+      "Du bist der Beste überhaupt",
+      "Für einen tollen Mann"
+    ],
+    "location": "",
+    "imageKey": "/seed/154675.jpg",
+    "sku": "154675"
+  },
+  {
+    "name": "Die besten Drinks",
+    "motifs": "Cocktailgläser, Eiswürfel, Zitrone, Erdbeere, Himbeere, Kirsche, Kräuter, Schirmchen",
+    "topics": "Cocktails, Getränke, Sommer, Party, Geburtstag",
+    "phrases": [
+      "Cheers",
+      "Auf dich!",
+      "Auf uns!",
+      "Auf deinen Tag!",
+      "Sommer-Party!"
+    ],
+    "location": "",
+    "imageKey": "/seed/165592.jpg",
+    "sku": "165592"
+  },
+  {
+    "name": "Ein Leben lang",
+    "motifs": "Blumenstrauß, Rosen, Blüten, Herzen",
+    "topics": "Hochzeit, Liebe, Ehe, Glückwunsch",
+    "phrases": [
+      "Ein Ja vereint zwei Leben, gemeinsam der Zukunft entgegen",
+      "Alles Gute dem Brautpaar",
+      "Unsere herzlichsten Glückwünsche",
+      "Wir feiern unsere Liebe",
+      "Auf unzählige Momente voller Liebe & Freude heute und an jedem neuen Tag",
+      "Glückwunsch"
+    ],
+    "location": "",
+    "imageKey": "/seed/152239.jpg",
+    "sku": "152239"
+  },
+  {
+    "name": "Einfach mal abtauchen",
+    "motifs": "Fische, Qualle, Seestern, Krabbe, Oktopus, Algen, Blasen",
+    "topics": "Meer, Ozean, Entspannung, Dank, Unterwasserwelt",
+    "phrases": [
+      "Einfach mal abtauchen und genießen",
+      "Ein Dankeschön aus tiefstem Herzen",
+      "Glück und Meer"
+    ],
+    "location": "",
+    "imageKey": "/seed/157855.jpg",
+    "sku": "157855"
+  },
+  {
+    "name": "Eisblüten",
+    "motifs": "Rosen, Blüten, Blätter, Zweige, Beeren, winterliche Blumen",
+    "topics": "Weihnachten, Neujahr, Glückwunsch, Winter, Blumen",
+    "phrases": [
+      "Herzlichen Glückwunsch",
+      "Wunderschöne Weihnachten und ein frohes neues Jahr!",
+      "Alles Liebe und Gute"
+    ],
+    "location": "",
+    "imageKey": "/seed/151722.jpg",
+    "sku": "151722"
+  },
+  {
+    "name": "Elegant floral",
+    "motifs": "Blüten, Blätter, Zweig, florale Stempel",
+    "topics": "Blumen, Abschied, Erfolg, Glückwunsch",
+    "phrases": [
+      "Zum Abschied viel Erfolg!",
+      "Glückwunsch",
+      "Großes entsteht, wenn du liebst, was du tust."
+    ],
+    "location": "",
+    "imageKey": "/seed/162249.jpg",
+    "sku": "162249"
+  },
+  {
+    "name": "Es geht rund!",
+    "motifs": "Sonnenstrahlen, Strahlenkreise, Sterne, Konfetti",
+    "topics": "Geburtstag, Jubiläum, Feier, Einladung, Geschenk",
+    "phrases": [
+      "Willkommen",
+      "Heute wird gefeiert",
+      "Pack aus!",
+      "Für dich",
+      "Von:",
+      "Mmmh!",
+      "Für euch",
+      "Alles Liebe zum Jubeltag",
+      "Für:",
+      "Einladung",
+      "Ein Hoch auf dich!"
+    ],
+    "location": "",
+    "imageKey": "/seed/163728.jpg",
+    "sku": "163728"
+  },
+  {
+    "name": "Eulenpost",
+    "motifs": "Eulen, Partyhut, Fliege",
+    "topics": "Geburtstag, Glückwunsch, Freundschaft, Tiere",
+    "phrases": [
+      "Eulenpost",
+      "Glückwunsch!",
+      "Hallo du-hu! Gerade an dich gedacht."
+    ],
+    "location": "",
+    "imageKey": "/seed/160813.jpg",
+    "sku": "160813"
+  },
+  {
+    "name": "Fantastfisch",
+    "motifs": "Fische, Fischschwarm, Qualle, Schildkröte, Seepferdchen, Wal, Korallen, Seegras",
+    "topics": "Meer, Ozean, Geburtstag, Dank, Unterwasserwelt",
+    "phrases": [
+      "Fantastfisch gemacht!",
+      "Mit Liebe und Meer",
+      "Ein Schwarm lieber Wünsche zum Geburtstag",
+      "Riesiges Dankeschön",
+      "Für dich, weil du gigantisch bist"
+    ],
+    "location": "",
+    "imageKey": "/seed/152844.jpg",
+    "sku": "152844"
+  },
+  {
+    "name": "Feierliche Fische",
+    "motifs": "Fische, Wellen, Wasserpflanzen",
+    "topics": "Kommunion, Konfirmation, Taufe, Einladung, Fisch",
+    "phrases": [
+      "Sei einfach du selbst!",
+      "Zur Kommunion",
+      "Zur Konfirmation",
+      "Einladung"
+    ],
+    "location": "",
+    "imageKey": "/seed/158999.jpg",
+    "sku": "158999"
+  },
+  {
+    "name": "Festliche Anhänger",
+    "motifs": "Weihnachtskugel, Nikolausstiefel, Schleife, Stechpalme, Tannenzweig",
+    "topics": "Weihnachten, Nikolaus, Neujahr, Geschenkanhänger",
+    "phrases": [
+      "Frohe Festtage",
+      "Vom Nikolaus",
+      "Mit Liebe für euch",
+      "Für",
+      "Von",
+      "Es ist die Zeit des Jahres, da werden Wünsche wahr ... Alles Gute und viel Glück auch im neuen Jahr!"
+    ],
+    "location": "",
+    "imageKey": "/seed/153896.jpg",
+    "sku": "153896"
+  },
+  {
+    "name": "Festtagsglanz",
+    "motifs": "Christbaumkugeln, Weihnachtsornamente, Stechpalme, Beeren",
+    "topics": "Weihnachten, Neujahr, Feiertage, Winter",
+    "phrases": [
+      "Gute Wünsche fürs neue Jahr",
+      "Grüße zum Fest, geschmückt mit viel Liebe",
+      "Frohe Weihnachten"
+    ],
+    "location": "",
+    "imageKey": "/seed/150696.jpg",
+    "sku": "150696"
+  },
+  {
+    "name": "Filigran floral",
+    "motifs": "Wildblumen, Wiesenblumen, Blütenzweige, Blätter",
+    "topics": "Blumen, Trauer, Dank, Freundschaft, Natur",
+    "phrases": [
+      "Vielen Dank. Du bist wundervoll",
+      "In tiefem Mitgefühl",
+      "Genieße den Moment ... Er gehört dir.",
+      "Nur das Beste für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/161084.jpg",
+    "sku": "161084"
+  },
+  {
+    "name": "Flaschenpost",
+    "motifs": "Flaschen, Blumengruß, Blumensträuße, Etikett, Zweige",
+    "topics": "Geschenk, Geburtstag, Flaschenpost, Blumen, Glück",
+    "phrases": [
+      "Flaschenpost für dich",
+      "Botschaft mit lieben Grüßen",
+      "Alles Liebe",
+      "Zum Wohl",
+      "Glück und Freude im Überfluss"
+    ],
+    "location": "",
+    "imageKey": "/seed/158688.jpg",
+    "sku": "158688"
+  },
+  {
+    "name": "Florale Freude",
+    "motifs": "Blumen, Blüten, Blätter, Stängel",
+    "topics": "Blumen, Glück, Freundschaft, Zukunft",
+    "phrases": [
+      "Ein Tag mit dir und schon blühe ich auf!",
+      "Mit Liebe, Freude und schönen Momenten an jedem Tag.",
+      "Beste Wünsche für eine Zukunft voller Glück"
+    ],
+    "location": "",
+    "imageKey": "/seed/150207.jpg",
+    "sku": "150207"
+  },
+  {
+    "name": "Florale Freundschaft",
+    "motifs": "Blumen, Blüten, Blätter, Farbspritzer",
+    "topics": "Freundschaft, Geburtstag, Blumen, Dank",
+    "phrases": [
+      "Was will ich mehr? Ich hab doch dich!",
+      "Alles Gute zu deinem Tag!",
+      "Tausend Dank",
+      "Schöne Grüße",
+      "Hallo"
+    ],
+    "location": "",
+    "imageKey": "/seed/161146.jpg",
+    "sku": "161146"
+  },
+  {
+    "name": "Flowing Flowers",
+    "motifs": "Blumen, Blüten, Blätter, florale Spritzer",
+    "topics": "Blumen, Geburtstag, Freundschaft, Dank, englische Sprüche",
+    "phrases": [
+      "Just a note",
+      "Happy Birthday",
+      "I like you",
+      "Thank you",
+      "Time for a happy dance",
+      "Sending a card instead of a text"
+    ],
+    "location": "",
+    "imageKey": "/seed/157880.jpg",
+    "sku": "157880"
+  },
+  {
+    "name": "Friedvolle Zweige",
+    "motifs": "Tannenzweige, Kiefernzweige, Zapfen, Punkte",
+    "topics": "Weihnachten, Advent, Winter, Natur",
+    "phrases": [
+      "Für ruhige und besinnliche Momente in der schönsten Zeit des Jahres",
+      "Mit den besten Wünschen"
+    ],
+    "location": "",
+    "imageKey": "/seed/150767.jpg",
+    "sku": "150767"
+  },
+  {
+    "name": "Fruchtige Grüße",
+    "motifs": "Beeren, Himbeeren, Weintrauben, Früchte, Blätter, Zweige",
+    "topics": "Obst, Früchte, Freundschaft, Dank, Genuss",
+    "phrases": [
+      "Zum Genießen",
+      "Fruchtige Grüße",
+      "Vielen Dank, dass du mir so oft den Tag versüßt"
+    ],
+    "location": "",
+    "imageKey": "/seed/155280.jpg",
+    "sku": "155280"
+  },
+  {
+    "name": "Für alle Zeit",
+    "motifs": "Blätter, Blattzweige, Eukalyptus, Beeren, Farbspritzer",
+    "topics": "Freundschaft, Glück, Dank, Aufmunterung",
+    "phrases": [
+      "Du schaffst das!",
+      "Hallo",
+      "Glück & Zufriedenheit für alle Zeit",
+      "Für dich, weil du mich so oft zum Lächeln bringst"
+    ],
+    "location": "",
+    "imageKey": "/seed/153091.jpg",
+    "sku": "153091"
+  },
+  {
+    "name": "Für allerlei Anlässe",
+    "motifs": "Schriftzüge und Grußtexte für viele Anlässe",
+    "topics": "Geburtstag, Dank, Baby, Trauer, Einzug, Freundschaft, Glückwunsch",
+    "phrases": [
+      "Ein kleines Dankeschön fürs Mitfeiern",
+      "Schönen Geburtstag",
+      "Diese Karte beweist: Du bist grandios",
+      "Hallöchen",
+      "Herzlichen Glückwunsch",
+      "Ja! Wir trauen uns!",
+      "Herzliches Beileid",
+      "Hallo Sonnenschein",
+      "Glückwunsch zum Wonneproppen an die stolzen Eltern",
+      "Halte durch!",
+      "Danke",
+      "Viel Glück",
+      "Du bist unschlagbar",
+      "Und zack: Da ist sie!",
+      "Lach mal wieder! Das steht dir so gut.",
+      "Wir sind umgezogen",
+      "Wollte nicht auf einen besonderen Anlass warten",
+      "Was täte ich ohne eine Freundin wie dich?",
+      "Wir denken ganz fest an dich",
+      "Beste Wünsche",
+      "Ich dachte, ich mach dir mal ’ne Karte."
+    ],
+    "location": "",
+    "imageKey": "/seed/158085.jpg",
+    "sku": "158085"
+  },
+  {
+    "name": "Gallery Blooms",
+    "motifs": "Blumen, Blüten, Pfingstrosen, Blütenzweige, Blätter",
+    "topics": "Blumen, Natur, Frühling, Florales",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/165211.jpg",
+    "sku": "165211"
+  },
+  {
+    "name": "Genussvolle Grüße",
+    "motifs": "Blumen, Herzen, Konfetti, Pinselstriche",
+    "topics": "Geburtstag, Baby, Einzug, Hochzeit, Geschenk",
+    "phrases": [
+      "Eine Kleinigkeit für dich",
+      "Glückwunsch",
+      "Zum neuen Zuhause",
+      "Zum gemeinsamen Leben",
+      "Willkommen Baby!",
+      "Ich wünsche dir einen genussvollen Geburtstag",
+      "Lecker und mit 100 % Liebe",
+      "Für:",
+      "Von:"
+    ],
+    "location": "",
+    "imageKey": "/seed/150154.jpg",
+    "sku": "150154"
+  },
+  {
+    "name": "Gern genutzte Grüße",
+    "motifs": "Schriftzüge in verschiedenen Schriftarten",
+    "topics": "Geburtstag, Dank, Gruß, Freundschaft",
+    "phrases": [
+      "Ich denk an dich",
+      "Hallo",
+      "Schönen Geburtstag",
+      "Kleiner Gruß",
+      "Vielen Dank"
+    ],
+    "location": "",
+    "imageKey": "/seed/158769.jpg",
+    "sku": "158769"
+  },
+  {
+    "name": "Geschmackvolle Motive",
+    "motifs": "Florales Muster, Schnörkel, Pinselstrich",
+    "topics": "Hochzeit, Zukunft, Freundschaft, Einladung, Dank",
+    "phrases": [
+      "Für Eure gemeinsame Zukunft die besten Wünsche",
+      "Kleiner Gruß",
+      "Hallo",
+      "Ich bin immer für dich da",
+      "Freue mich sehr für dich",
+      "Ich hab viel an dich gedacht",
+      "Einladung",
+      "Herzliches Dankeschön"
+    ],
+    "location": "",
+    "imageKey": "/seed/165202.jpg",
+    "sku": "165202"
+  },
+  {
+    "name": "Gestanzte Grüße",
+    "motifs": "Herzen, Zierrahmen, Etiketten, Stempelmotiv, Blume",
+    "topics": "Baby, Genesung, Dank, Liebe, Glückwunsch",
+    "phrases": [
+      "Herzenspost von mir für dich",
+      "Alles Liebe & Gute",
+      "Bravo!",
+      "Gute Besserung für dich",
+      "Ein herzliches Dankeschön für alles",
+      "So schön, dass es dich gibt!",
+      "Tut mir leid",
+      "Hey Baby! Noch so klein und schon der größte Schatz.",
+      "An deinem Tag blüht jede Blume ganz allein für dich",
+      "Für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/155304.jpg",
+    "sku": "155304"
+  },
+  {
+    "name": "Gewebte Worte",
+    "motifs": "Webmuster, Schnörkel, Ranken, Zierstreifen",
+    "topics": "Hochzeit, Trauer, Beileid, Dank, Gruß",
+    "phrases": [
+      "In Gedanken bei dir",
+      "Mit Liebe",
+      "Vielen lieben Dank",
+      "Zu eurem großen Tag alles Liebe und Gute",
+      "In Trauer und tiefem Mitgefühl ein stiller Gruß an dich und deine Familie"
+    ],
+    "location": "",
+    "imageKey": "/seed/150241.jpg",
+    "sku": "150241"
+  },
+  {
+    "name": "Glasklare Grüße",
+    "motifs": "Einmachgläser, Deckel, Bänder, Schleife, Blumen, Zweige, Fisch, Herz",
+    "topics": "Geschenke, Dank, Glück, Geburtstag, Genesung",
+    "phrases": [
+      "Das Leben ist so leer ohne dich",
+      "Für dich",
+      "Du machst mein Leben bunter",
+      "Gute Besserung",
+      "Proppenvoll mit Liebe",
+      "Mit Liebe gemacht",
+      "Grüße",
+      "Lecker",
+      "Für euch",
+      "Eine Portion Glück",
+      "Danke",
+      "Von Herzen",
+      "Hallo"
+    ],
+    "location": "",
+    "imageKey": "/seed/142405.jpg",
+    "sku": "142405"
+  },
+  {
+    "name": "Glück und Liebe",
+    "motifs": "Asiatischer Pavillon, chinesische Laterne, Baum, Frau mit Schirm",
+    "topics": "Glück, Liebe, Reise, Asien",
+    "phrases": [
+      "Viel Glück",
+      "Jede Reise beginnt mit dem ersten Schritt – Laotse",
+      "Wo Liebe ist, wird das Unmögliche möglich"
+    ],
+    "location": "",
+    "imageKey": "/seed/152785.jpg",
+    "sku": "152785"
+  },
+  {
+    "name": "Glücksgrüße",
+    "motifs": "Schriftzüge, Sprüche für Vater und Mutter",
+    "topics": "Geburtstag, Glückwunsch, Mama, Papa, Muttertag, Vatertag, Dank",
+    "phrases": [
+      "Hurra, hurra, hurra!",
+      "Wichtig ist ...",
+      "Das muss gefeiert werden!",
+      "dass ich dich habe",
+      "Hallo Schatz!",
+      "Ich liebe dich",
+      "So ein Glück ...",
+      "Herzlichen Glückwunsch",
+      "Toll sein ist einfach dein Ding",
+      "dass du mir wichtig bist",
+      "Lieben Dank",
+      "Ein Hoch auf die Liebe!",
+      "Wow, bin echt gut geraten!",
+      "Alles Liebe zum Papa-Tag",
+      "Alles Liebe zum Mama-Tag"
+    ],
+    "location": "",
+    "imageKey": "/seed/158011.jpg",
+    "sku": "158011"
+  },
+  {
+    "name": "Glückspilze",
+    "motifs": "Pilze, Fliegenpilze, Käfer, Äste",
+    "topics": "Glück, Dank, Freundschaft, Pilze",
+    "phrases": [
+      "Ein kleines Dankeschön",
+      "Viel Glück!",
+      "Du Glückspilz! Freu mich für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/164787.jpg",
+    "sku": "164787"
+  },
+  {
+    "name": "Glücksregen",
+    "motifs": "Regenschirm, Gummistiefel, Regentropfen, Blumen",
+    "topics": "Aufmunterung, Freundschaft, Regen, Glück",
+    "phrases": [
+      "Wenn mal Regen kommt, gieß deine Blumen damit!",
+      "Glücksregen für dich",
+      "Wahre Freundschaft ist wetterfest",
+      "Blumen gegen Blues",
+      "Hallo Sonnenschein",
+      "Manchmal ist die verkehrte Welt genau richtig!"
+    ],
+    "location": "",
+    "imageKey": "/seed/151908.jpg",
+    "sku": "151908"
+  },
+  {
+    "name": "Grußfamilie",
+    "motifs": "Sprüche und Schriftzüge für Baby und Geburt",
+    "topics": "Baby, Geburt, Eltern, Glückwunsch, Dank, Geburtstag",
+    "phrases": [
+      "Kleines Baby, großes Wunder",
+      "Danke für dein großes Herz!",
+      "Bleib, wie du bist!",
+      "(Nicht, dass du es nötig hättest!)",
+      "Das habt ihr gut gemacht!",
+      "Ein Baby ist unterwegs",
+      "Geburtstagspost",
+      "*Babysprache für: Vielen Dank!",
+      "Lass es krachen!",
+      "Weißt du, wie lieb ich dich hab?",
+      "Bin sooo stolz auf dich",
+      "Gugu, gaga.*",
+      "... der schönste Grund, sich elend zu fühlen!",
+      "Ein Herzenswunsch wurde wahr!",
+      "Hallo Schlaumeier!",
+      "Herzlichen Glückwunsch",
+      "Viel Glück!",
+      "Mach weiter so!"
+    ],
+    "location": "",
+    "imageKey": "/seed/156913.jpg",
+    "sku": "156913"
+  },
+  {
+    "name": "Grüße auf vier Hufen",
+    "motifs": "Esel, Sterne, Vierbeiner",
+    "topics": "Geburtstag, Freundschaft, Tiere, Esel",
+    "phrases": [
+      "Iah, iah!",
+      "Immer für dich da",
+      "Gruß auf vier Hufen",
+      "Ich gratuliere zum Geburtstag!"
+    ],
+    "location": "",
+    "imageKey": "/seed/155270.jpg",
+    "sku": "155270"
+  },
+  {
+    "name": "Grüße aus der Otter-Welt",
+    "motifs": "Otter, schwimmender Otter, Fisch, Partyhut",
+    "topics": "Geburtstag, Glückwunsch, Tiere, Otter",
+    "phrases": [
+      "Heute wird gefeiert!",
+      "Hoffe, du schwimmst im Glück"
+    ],
+    "location": "",
+    "imageKey": "/seed/158093.jpg",
+    "sku": "158093"
+  },
+  {
+    "name": "Grüße mit Herz",
+    "motifs": "Herzen, Herzstempel, Kreuz und Kreis, Streifen, Punkte",
+    "topics": "Valentinstag, Liebe, Freundschaft, Zuneigung",
+    "phrases": [
+      "Schön, dass es dich gibt",
+      "Schönen Valentinstag",
+      "Für immer",
+      "HDL",
+      "Drück dich",
+      "Du. Ich. Passt.",
+      "Für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/157622.jpg",
+    "sku": "157622"
+  },
+  {
+    "name": "Grüße voller Liebe",
+    "motifs": "Schriftzüge, Grußtexte für Hochzeit und Paare",
+    "topics": "Hochzeit, Hochzeitstag, Valentinstag, Liebe, Verlobung",
+    "phrases": [
+      "Zum besonderen Hochzeitstag",
+      "Dem süßesten Paar der Welt",
+      "Großes Eheglück besteht aus vielen kleinen Glücksmomenten.",
+      "Für meine Frau",
+      "Ihr beide habt etwas Besonderes – einander. Glückwunsch!",
+      "Alles Liebe zum Valentinstag",
+      "Was auch immer das nächste Jahr bringt, es werden 365 Tage voller Liebe",
+      "Für meinen Mann",
+      "Valentinstagsgrüße",
+      "Zur Verlobung herzlichste Glückwünsche!",
+      "Glückwunsch zum Hochzeitstag",
+      "Schönen Hochzeitstag, mein Schatz!",
+      "Zur Hochzeit alles Liebe",
+      "Für meine große Liebe",
+      "Herzlichen Glückwunsch"
+    ],
+    "location": "",
+    "imageKey": "/seed/157639.jpg",
+    "sku": "157639"
+  },
+  {
+    "name": "Gut gesagt",
+    "motifs": "Wortstempel und kombinierbare Sprüche, zwei Hüllen",
+    "topics": "Geburtstag, Vatertag, Muttertag, Ruhestand, Dank, Trauer, Genesung, Schule, Hochzeit, Baby",
+    "phrases": [
+      "Werd bald wieder gesund!",
+      "... weil du immer für mich da bist.",
+      "Zeit für neue Abenteuer!",
+      "Du bist einfach ein Schatz!",
+      "Alles macht mehr Spaß, wenn du dabei bist.",
+      "Danke Mama, du hast mich toll hinbekommen!",
+      "Kauf dir was Schönes!",
+      "Und dass der Ernst des Lebens dir auch richtig viel Spaß macht!",
+      "Das Schönste heute ist, dass es dich gibt!",
+      "Pragmatisch, aufbauend, problemlösend, außergewöhnlich. Oder kurz: Papa.",
+      "Aus den Augen, aus dem Sinn? Von wegen!",
+      "Das Sichtbare ist vergangen, aber es bleibt die Liebe und die Erinnerung.",
+      "Toll gemacht!",
+      "Ein bisschen Mama, ein bisschen Papa und ganz viel Wunder",
+      "Die Liebe ist das Einzige, das sich verdoppelt, wenn man es teilt.",
+      "Hilfsbereit, lieb, großzügig ... Hast du dich schon erkannt?",
+      "Herzliche",
+      "Ich denk an",
+      "Für",
+      "Für das",
+      "Vatertag",
+      "Besserung",
+      "Frohe",
+      "Viel",
+      "Alles",
+      "Nachträglich",
+      "Ruhestand",
+      "Zum",
+      "Für alles",
+      "Abschluss",
+      "Anteilnahme",
+      "Für euch",
+      "Ostern",
+      "Für dich",
+      "Im Team",
+      "Schulanfang",
+      "Schönen",
+      "Beste",
+      "Gute",
+      "Geburtstag",
+      "Wünsche",
+      "Liebe",
+      "Glück",
+      "Danke",
+      "Dich",
+      "Muttertag",
+      "Glückwünsche",
+      "Baby",
+      "Traumpaar",
+      "Willkommen"
+    ],
+    "location": "",
+    "imageKey": "/seed/149146.jpg",
+    "sku": "149146",
+    "additionalImages": [
+      "/seed/149146-2.jpg"
+    ]
+  },
+  {
+    "name": "Gänseblümchenglück",
+    "motifs": "Gänseblümchen, Blumen, Blüten, Blätter, Farn",
+    "topics": "Blumen, Aufmunterung, Freundschaft, Dank",
+    "phrases": [
+      "Für dich",
+      "Carpe diem",
+      "Du schaffst es. Du schaffst es nicht. Du schaffst es auf jeden Fall!",
+      "Ich schick dir ein Lächeln"
+    ],
+    "location": "",
+    "imageKey": "/seed/150266.jpg",
+    "sku": "150266"
+  },
+  {
+    "name": "Herbstblätter",
+    "motifs": "Herbstblätter, Zweige, Blätter",
+    "topics": "Herbst, Ruhestand, Trauer, Anteilnahme, Willkommen",
+    "phrases": [
+      "Stille Anteilnahme",
+      "Willkommen",
+      "Herbst heißt: endlich wieder Blätterrascheln",
+      "Bei uns",
+      "Bunter Herbst",
+      "Im goldenen Ruhestand"
+    ],
+    "location": "",
+    "imageKey": "/seed/162183.jpg",
+    "sku": "162183"
+  },
+  {
+    "name": "Herrliche Hortensie",
+    "motifs": "Hortensien, Blüten, Blätter, Blütenstempel",
+    "topics": "Blumen, Dank, Freundschaft, Glückwunsch, Liebe",
+    "phrases": [
+      "Die Welt ist schöner mit dir darin!",
+      "Du bist meine Heldin",
+      "Du bist die Beste",
+      "Du kannst einfach alles schaffen!",
+      "Danke für all die kleinen und großen Dinge!",
+      "Mit Liebe",
+      "Für dich",
+      "Glückwunsch!",
+      "Vielen Dank",
+      "Ich hab dich lieb."
+    ],
+    "location": "",
+    "imageKey": "/seed/158214.jpg",
+    "sku": "158214"
+  },
+  {
+    "name": "Herzenssache",
+    "motifs": "Herzen, Blumen, florale Herzen",
+    "topics": "Valentinstag, Liebe, Freundschaft, Zuneigung",
+    "phrases": [
+      "Alles Liebe zum Valentinstag",
+      "Du und ich. Einfach klasse.",
+      "Zart, aber herzlich",
+      "Mit dir sind kleine Dinge das Größte",
+      "Reine Herzenssache",
+      "Nur für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/149183.jpg",
+    "sku": "149183"
+  },
+  {
+    "name": "Herziges Häuschen",
+    "motifs": "Haus, Häuschen, Herz, Dach, Tür, Fenster, Kranz",
+    "topics": "Einzug, neues Zuhause, Haus, Weihnachten, Willkommen",
+    "phrases": [
+      "Alles Gute",
+      "Im neuen Zuhause",
+      "Willkommen",
+      "Hausgemacht",
+      "Daheim",
+      "Grüße mit Herz von Haus zu Haus",
+      "Frohe Feiertage",
+      "Für:",
+      "Von:"
+    ],
+    "location": "",
+    "imageKey": "/seed/164290.jpg",
+    "sku": "164290"
+  },
+  {
+    "name": "Herzlich",
+    "motifs": "Herzen, Spitzenherzen, Pfeile, kleine Blüten",
+    "topics": "Valentinstag, Liebe, Freundschaft, Schokolade",
+    "phrases": [
+      "Es gibt nichts Besseres als Freunde (außer Freunde mit Schokolade)",
+      "Was für ein Schatz du bist!",
+      "Hab dich lieb",
+      "Bussi",
+      "Damit du nicht vergisst",
+      "Jetzt wird dir warm ums Herz, oder?",
+      "Zum Valentinstag für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/152244.jpg",
+    "sku": "152244"
+  },
+  {
+    "name": "Hippe Grüße",
+    "motifs": "Nilpferde, Blume, Ballett, Tutu",
+    "topics": "Geburtstag, Dank, Freundschaft, Tiere, Nilpferd",
+    "phrases": [
+      "Mal abtauchen wirkt Wunder!",
+      "Du bist spitze",
+      "Danke! Du bist schwer in Ordnung!",
+      "Hippe Grüße"
+    ],
+    "location": "",
+    "imageKey": "/seed/159927.jpg",
+    "sku": "159927"
+  },
+  {
+    "name": "Hu(h)ndert gute Wünsche",
+    "motifs": "Hühner, Hahn, Küken, Ei, Ballon, Kuchen, Konfetti",
+    "topics": "Geburtstag, Glückwunsch, Tiere, Huhn",
+    "phrases": [
+      "F-ei-erliche Grüße",
+      "Bleib, wie du bist, verrücktes Huhn!",
+      "Hu(h)ndert gute Wünsche",
+      "Zum Geburtstag für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/155133.jpg",
+    "sku": "155133"
+  },
+  {
+    "name": "Höhenflüge",
+    "motifs": "Flugzeuge, Wolken, Flugspuren, Propeller",
+    "topics": "Geburtstag, Vater, Papa, Dank, Mut, Abenteuer",
+    "phrases": [
+      "Alles Liebe, Papa",
+      "Du Überflieger",
+      "Danke, du gibst mir Auftrieb",
+      "Jetzt startest du durch!",
+      "Ich wünsch dir Höhenflüge",
+      "Schönen Geburtstag"
+    ],
+    "location": "",
+    "imageKey": "/seed/163445.jpg",
+    "sku": "163445"
+  },
+  {
+    "name": "Kleiner Wunscherfüller",
+    "motifs": "Schriftzüge für kleine Geschenke und Einladungen",
+    "topics": "Ostern, Frühling, Einladung, Geschenk, Trost, Humor",
+    "phrases": [
+      "Schön, dass du da bist!",
+      "Frühlingsduft liegt in der Luft. Frohe Ostern!",
+      "Du bist herzlich eingeladen",
+      "Wirkt gegen Stress: Nerven-Nahrung, schnell & zuverlässig",
+      "Wenn’s mal nicht läuft, streu Glitzer drauf!",
+      "Kleiner Wunscherfüller"
+    ],
+    "location": "",
+    "imageKey": "/seed/150023.jpg",
+    "sku": "150023"
+  },
+  {
+    "name": "Klitzekleine Grüße",
+    "motifs": "Schriftzüge für viele Anlässe",
+    "topics": "Gruß, Geburtstag, Weihnachten, Neujahr, Hochzeit, Baby, Taufe, Trost, Ruhestand",
+    "phrases": [
+      "Für dich",
+      "Feiere schön",
+      "Frohes neues Jahr",
+      "Zum Genießen",
+      "Glückwunsch zur Verlobung",
+      "Alles Gute zum Ruhestand",
+      "Schönen Geburtstag",
+      "Weihnachtsgrüße",
+      "In Gedanken bei dir",
+      "Ich hoffe, es geht dir besser!",
+      "Du fehlst mir",
+      "Für den besten Papa",
+      "Wunderbar mit jedem Jahr",
+      "Mit Liebe",
+      "Zur Geburt",
+      "Frohe Ostern",
+      "Viel Glück!",
+      "Gesucht & gefunden",
+      "Beste Wünsche von uns allen",
+      "Hi, wie geht’s?",
+      "Alles Gute zum Schulanfang",
+      "Vielen Dank",
+      "Zur Taufe alles Gute",
+      "Tut mir leid",
+      "Genieß den Tag!",
+      "Ein kleiner Gruß",
+      "Aufrichtige Anteilnahme",
+      "Ich bin immer für dich da.",
+      "Für die liebste Mama",
+      "Alles Liebe zum Hochzeitstag",
+      "Post für dich",
+      "Glückwunsch"
+    ],
+    "location": "",
+    "imageKey": "/seed/147955.jpg",
+    "sku": "147955",
+    "additionalImages": [
+      "/seed/147955-2.jpg"
+    ]
+  },
+  {
+    "name": "Konturiert und koloriert",
+    "motifs": "Blüten, Blumen, Blätter, Farbspritzer",
+    "topics": "Blumen, Geburtstag, Freundschaft, Dank, Glückwunsch",
+    "phrases": [
+      "An schlechten wie an guten Tagen",
+      "Du bist das Wunder in wunderbar",
+      "Schön, dass wir uns haben",
+      "Tausend Dank für alles",
+      "Freu mich sehr für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/156123.jpg",
+    "sku": "156123"
+  },
+  {
+    "name": "Kraft der Natur",
+    "motifs": "Bäume, Baumstamm, Jahresringe, Blätter, Zweig",
+    "topics": "Natur, Wald, Bäume, Trost, Kraft, Ruhe, Dank",
+    "phrases": [
+      "Du bist unvergleichlich",
+      "Nur für dich",
+      "Worte reichen nicht aus",
+      "Ruhe",
+      "Kraft",
+      "Gelassenheit",
+      "Um dir für alles zu danken",
+      "Alles Liebe"
+    ],
+    "location": "",
+    "imageKey": "/seed/151446.jpg",
+    "sku": "151446",
+    "additionalImages": [
+      "/seed/151446-2.jpg"
+    ]
+  },
+  {
+    "name": "Kreative Tage",
+    "motifs": "Monate, Kalenderzahlen, Wochentage, Ballons, Stern, Herz, Blume",
+    "topics": "Kalender, Termine, Geburtstag, Datum, Planung",
+    "phrases": [
+      "Denk daran",
+      "Wichtiger Termin",
+      "Schönen Geburtstag",
+      "Grund zum Feiern",
+      "Heute ist dein Tag!"
+    ],
+    "location": "",
+    "imageKey": "/seed/155525.jpg",
+    "sku": "155525"
+  },
+  {
+    "name": "Kreativität verbindet",
+    "motifs": "Stifte, Tinte, Klammer, Garn, Knöpfe, Ornament",
+    "topics": "Kreativität, Basteln, Handarbeit, Kunst, Freundschaft",
+    "phrases": [
+      "Mit dir wird meine Welt farbenfroh",
+      "Kreativität verbindet",
+      "Ich mag all deine Facetten",
+      "Liebe deine Kunst"
+    ],
+    "location": "",
+    "imageKey": "/seed/150235.jpg",
+    "sku": "150235"
+  },
+  {
+    "name": "Kreiert mit Liebe",
+    "motifs": "Schere, Pinsel, Stifte, Garn, Kreativmaterial",
+    "topics": "Kreativität, Basteln, Malen, Handarbeit, Dank, Freundschaft",
+    "phrases": [
+      "Jeden Tag eine kreative Tat",
+      "Kreativität macht Freu(n)de.",
+      "Kreieren? Jederzeit! Haushalt? Hat Zeit."
+    ],
+    "location": "",
+    "imageKey": "/seed/151476.jpg",
+    "sku": "151476"
+  },
+  {
+    "name": "Kunstvoll koloriert",
+    "motifs": "Blüten, Blumen, Knospen, Blätter, Aquarellstruktur",
+    "topics": "Blumen, Geburtstag, Dank, Gruß, Aquarell",
+    "phrases": [
+      "Hallo",
+      "Beste Wünsche",
+      "Danke",
+      "Zum Geburtstag"
+    ],
+    "location": "",
+    "imageKey": "/seed/154693.jpg",
+    "sku": "154693"
+  },
+  {
+    "name": "Käffchen",
+    "motifs": "Kaffeetasse, Kaffeebohnen, Kaffeeherz, Löffel, Kaffeeflecken",
+    "topics": "Kaffee, Freundschaft, Dank, Aufmunterung",
+    "phrases": [
+      "Kaffee fragt nicht. Kaffee versteht.",
+      "Du, ich, Käffchen?",
+      "Danke fürs Aufbauen",
+      "Du bist mein Koffein"
+    ],
+    "location": "",
+    "imageKey": "/seed/163459.jpg",
+    "sku": "163459"
+  },
+  {
+    "name": "Lebkuchenmann",
+    "motifs": "Lebkuchenmann, Gesichter, Knöpfe, Zuckerguss",
+    "topics": "Weihnachten, Advent, Backen, Plätzchen, Lebkuchen, Humor",
+    "phrases": [
+      "Frohe Naschzeit",
+      "Ausgestochen lecker!",
+      "Weihnachten ist, was du draus backst",
+      "Ach nööö!"
+    ],
+    "location": "",
+    "imageKey": "/seed/165782.jpg",
+    "sku": "165782"
+  },
+  {
+    "name": "Libellengarten",
+    "motifs": "Libellen, Wildblumen, Blumenwiese, Strukturstempel",
+    "topics": "Libelle, Insekten, Garten, Natur, Freundschaft, Dank",
+    "phrases": [
+      "Du bist eine Inspiration",
+      "Wir sagen Danke",
+      "Ein kleiner Gruß mit ganz lieben Wünschen",
+      "Ein Dankeschön für deine Freundschaft"
+    ],
+    "location": "",
+    "imageKey": "/seed/154612.jpg",
+    "sku": "154612"
+  },
+  {
+    "name": "Lichterzauber",
+    "motifs": "Weihnachtliche Schriftzüge, Textstempel",
+    "topics": "Weihnachten, Advent, Festtage, Neujahr, Familie, Grüße",
+    "phrases": [
+      "Feiertagsgrüsse",
+      "Frohe Festtage",
+      "Viel Ruhe und Zeit an den Feiertagen sowie alles Gute fürs neue Jahr",
+      "Beste Wünsche für Sie und Ihre Familie",
+      "Gesegnete Weihnachten",
+      "Ich wünsch dir eine schöne Weihnachtszeit",
+      "Weihnachten ist, wenn in aller Welt Lichterzauber die Herzen erhellt.",
+      "Alles funkelt nah und weit",
+      "Advent, Advent",
+      "Das Herz kommt nach Hause",
+      "Zum Fest",
+      "Frohes neues Jahr"
+    ],
+    "location": "",
+    "imageKey": "/seed/159548.jpg",
+    "sku": "159548"
+  },
+  {
+    "name": "Liebevolle Details",
+    "motifs": "Ovale Etiketten, florale Zierelemente, Randmuster",
+    "topics": "Geburtstag, Dank, Freundschaft, Feiern, Grüße",
+    "phrases": [
+      "Lass dich feiern",
+      "Alles ist schöner, wenn du dabei bist",
+      "Vielen Dank",
+      "Fühl dich gedrückt",
+      "Schönen Geburtstag",
+      "Danke, weil du mich so oft zum Lächeln bringst"
+    ],
+    "location": "",
+    "imageKey": "/seed/147423.jpg",
+    "sku": "147423"
+  },
+  {
+    "name": "Lucky Clover",
+    "motifs": "Kleeblätter, vierblättriges Kleeblatt",
+    "topics": "Glück, Freundschaft, St. Patrick’s Day, Klee",
+    "phrases": [
+      "Happy St. Patrick’s Day!",
+      "Good luck!",
+      "Sending Luck & Love",
+      "A good friend is like a four-leaf clover; hard to find & lucky to have."
+    ],
+    "location": "",
+    "imageKey": "/seed/160610.jpg",
+    "sku": "160610"
+  },
+  {
+    "name": "Magnoliengruss",
+    "motifs": "Magnolienblüte, Magnolienblätter, Blatt; weitere Magnolienblüte, Zierornament",
+    "topics": "Magnolie, Blumen, Dank, Gruß, Natur, Freundschaft, Blumenstrauß",
+    "phrases": [
+      "Für dich",
+      "Danke",
+      "Für all deine kleinen und großen Taten. Du bist wunderbar!",
+      "Ein lieber Blumengruß",
+      "In Begleitung reist es sich besser durchs Leben. Ich bin immer an deiner Seite.",
+      "Mit lieben Grüßen"
+    ],
+    "location": "",
+    "imageKey": "/seed/150344.jpg",
+    "sku": "150344",
+    "additionalImages": [
+      "/seed/150344-2.jpg"
+    ]
+  },
+  {
+    "name": "Meeresbucht",
+    "motifs": "Muscheln, Auster, Perle, Krabbe, Strandläufer, Sand",
+    "topics": "Meer, Strand, Küste, Muscheln, Erinnerung, Dank",
+    "phrases": [
+      "Mehr als eine Perle, ein echter Schatz",
+      "Vielen Dank von Herzen",
+      "Es bleibt die Erinnerung"
+    ],
+    "location": "",
+    "imageKey": "/seed/160442.jpg",
+    "sku": "160442"
+  },
+  {
+    "name": "Mein lieber Mann!",
+    "motifs": "Oldtimer, Auto, Campingbus, Kompass, Grillbesteck, Schrauben",
+    "topics": "Männer, Vatertag, Geburtstag, Auto, Reisen, Camping, Grillen",
+    "phrases": [
+      "Alles Liebe zum Vatertag",
+      "Alles Gute, du heißer Typ",
+      "Liebenswerter Kerl",
+      "Zum Geburtstag für einen Klassiker",
+      "Für meinen Helden",
+      "Ganz egal, wohin – Hauptsache, zusammen",
+      "Für den Mann der tausend Talente",
+      "Nr. 1",
+      "Viel Glück auf all deinen Wegen"
+    ],
+    "location": "",
+    "imageKey": "/seed/159077.jpg",
+    "sku": "159077"
+  },
+  {
+    "name": "Mit Meerwert",
+    "motifs": "Seepferdchen, Muscheln, Seestern, Sanddollar, Koralle, Sprenkel",
+    "topics": "Meer, Strand, Muscheln, Geburtstag, Dank, Vermissen",
+    "phrases": [
+      "Mit liebem Danke",
+      "Zum Geburtstag",
+      "Gruß mit Meerwert",
+      "Vermisse dich!"
+    ],
+    "location": "",
+    "imageKey": "/seed/150847.jpg",
+    "sku": "150847"
+  },
+  {
+    "name": "Mit Stil",
+    "motifs": "Frauenfiguren, Dame mit Regenschirm, Pinselstriche",
+    "topics": "Frauen, Stil, Mode, Feiern, Freundschaft, Aufmunterung",
+    "phrases": [
+      "Alles Liebe, meine Schöne",
+      "Das Leben ist vielleicht keine Party, aber wenn wir schon mal hier sind, können wir auch tanzen.",
+      "Möge das Grau schnell verschwinden",
+      "Feiere ...",
+      "Lebe jetzt, lache oft, liebe für immer",
+      "Du bist immer umwerfend",
+      "Freu mich so sehr für dich",
+      "Mit Stil!"
+    ],
+    "location": "",
+    "imageKey": "/seed/151401.jpg",
+    "sku": "151401",
+    "additionalImages": [
+      "/seed/151401-2.jpg"
+    ]
+  },
+  {
+    "name": "Motorrad-Fahrt",
+    "motifs": "Motorräder, Schraubenschlüssel, Flamme, Landschaft",
+    "topics": "Motorrad, Motorradfahrer, Geburtstag, Abenteuer, Freundschaft",
+    "phrases": [
+      "Du bist legendär",
+      "Bleib immer gut drauf!",
+      "Mit Vollgas ins neue Lebensjahr",
+      "Klassisch authentisch du seit es dich gibt"
+    ],
+    "location": "",
+    "imageKey": "/seed/160760.jpg",
+    "sku": "160760"
+  },
+  {
+    "name": "Märchenhafte Gefährten",
+    "motifs": "Hasen, Igel, Eichhörnchen, Häuschen, Blumen, Mauer",
+    "topics": "Ostern, Frühling, Hase, Baby, Geburt, Dank, Tiere",
+    "phrases": [
+      "Für dich mit Liebe",
+      "Willkommen auf der Welt",
+      "Ich danke dir sehr",
+      "Schöne Ostern",
+      "Frühlingsgrüße",
+      "Grüß dich!"
+    ],
+    "location": "",
+    "imageKey": "/seed/164672.jpg",
+    "sku": "164672"
+  },
+  {
+    "name": "Nacht der Wunder",
+    "motifs": "Schriftzüge und Bibelverse ohne Bildmotive",
+    "topics": "Weihnachten, Advent, Frieden, Engel, Glaube, Christlich",
+    "phrases": [
+      "Frieden für die Welt",
+      "Gesegnete Weihnachten",
+      "Folget dem Stern",
+      "Zu Bethlehem geboren",
+      "Frohe Kunde",
+      "Ehre sei Gott in der Höhe",
+      "Jubel der Engel",
+      "Zeit der Wunder",
+      "Stille Nacht",
+      "Ein Licht in der Dunkelheit"
+    ],
+    "location": "",
+    "imageKey": "/seed/161993.jpg",
+    "sku": "161993"
+  },
+  {
+    "name": "Naturgedanken",
+    "motifs": "Sonnenhut, Blumen, Wildblumen, Pflanzenstruktur",
+    "topics": "Natur, Blumen, Trost, Dank, Glück, Aufmunterung",
+    "phrases": [
+      "Was dein Herz berührt, kann deine Seele heilen",
+      "Danke dir",
+      "Vergiss nie, wie wertvoll du bist",
+      "Viel Glück"
+    ],
+    "location": "",
+    "imageKey": "/seed/156501.jpg",
+    "sku": "156501"
+  },
+  {
+    "name": "Nix zu meckern",
+    "motifs": "Ziegen, Bock, Wollknäuel",
+    "topics": "Tiere, Ziege, Humor, Geburtstag, Motivation, Glückwunsch",
+    "phrases": [
+      "Zum Geburtstag viel Glück und Määäh-r!",
+      "Sofort-Motivation (wenn du mal keinen Bock hast)",
+      "Ich hatte einen Kuchen für dich ...",
+      "... aber hab ihn gegessen.",
+      "Bravo! Nix zu meckern!"
+    ],
+    "location": "",
+    "imageKey": "/seed/152962.jpg",
+    "sku": "152962"
+  },
+  {
+    "name": "Oceanfront",
+    "motifs": "Meer, Strand, Küste, Wasser, Gras, Schilf, Steine, Sand",
+    "topics": "Meer, Strand, Ozean, Urlaub, Küste, Natur, Landschaft",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/157862.jpg",
+    "sku": "157862"
+  },
+  {
+    "name": "Orchideenzweig",
+    "motifs": "Orchideen, Orchideenblüten, Blätter, Zweig",
+    "topics": "Orchidee, Blumen, Natur, Geburtstag, Gruß",
+    "phrases": [
+      "Hallo",
+      "Genieße den Tag",
+      "Ich denk an dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/144439.jpg",
+    "sku": "144439"
+  },
+  {
+    "name": "Originelle Ostereier",
+    "motifs": "Ostereier mit Hasenmotiv, Osterei mit Ornamenten, Osterhase",
+    "topics": "Ostern, Ostereier, Frühling, Hase, Geschenk",
+    "phrases": [
+      "Hallo Frühling",
+      "Kleinigkeit vom Osterhasen",
+      "Schöne Ostern",
+      "Für dich, Hase"
+    ],
+    "location": "",
+    "imageKey": "/seed/162804.jpg",
+    "sku": "162804"
+  },
+  {
+    "name": "Osterhase",
+    "motifs": "Osterhasen, Ostereier, Küken, Schmetterling, Karotte, Blumen",
+    "topics": "Ostern, Osterfest, Frühling, Hase, Baby, Geburt, Kinder",
+    "phrases": [
+      "Frohe Ostern",
+      "Was Kleines zum Mümmeln",
+      "Hoppelige Grüße",
+      "Willkommen, kleiner Hase",
+      "Zum Osterfest ein lieber Gruß",
+      "Hey"
+    ],
+    "location": "",
+    "imageKey": "/seed/160605.jpg",
+    "sku": "160605"
+  },
+  {
+    "name": "Otter-Grüße",
+    "motifs": "Otter, Otterpaar, Fische, Wasserpflanzen, Luftblasen",
+    "topics": "Otter, Tiere, Wasser, Freundschaft, Entspannung, Trost",
+    "phrases": [
+      "Hey du, entspann mal wieder!",
+      "Bin für dich da",
+      "Wir beide. Passt perfekt."
+    ],
+    "location": "",
+    "imageKey": "/seed/164930.jpg",
+    "sku": "164930"
+  },
+  {
+    "name": "Ovale Grüße",
+    "motifs": "Hasen, Blumen, Blüten, Sterne, Herzen, Kleeblatt",
+    "topics": "Geburtstag, Baby, Geburt, Dank, Glückwunsch, Freundschaft, Feiern",
+    "phrases": [
+      "Alles Gute zum Geburtstag",
+      "Willkommen, kleiner Schatz!",
+      "Viel Glück",
+      "Mit Liebe",
+      "Lasst uns feiern",
+      "Danke vielmals",
+      "So schön, dass du da bist",
+      "Kleines Mitbringsel"
+    ],
+    "location": "",
+    "imageKey": "/seed/154611.jpg",
+    "sku": "154611"
+  },
+  {
+    "name": "Painted Lavender",
+    "motifs": "Lavendelblüten, Lavendelzweige, Blätter, Schmetterlinge",
+    "topics": "Lavendel, Blumen, Garten, Natur, Frühling, Sommer",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/162594.jpg",
+    "sku": "162594"
+  },
+  {
+    "name": "Painted Poppies",
+    "motifs": "Mohnblumen, Blütenwiese, Blätter, Aquarellfläche, Farbspritzer",
+    "topics": "Mohn, Blumen, Wiese, Aquarell, Pflanzen, Englisch",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/151599.jpg",
+    "sku": "151599"
+  },
+  {
+    "name": "Painted Seasons",
+    "motifs": "Blüte, Sukkulente, Zapfen, Blätter, Zweig, Sprenkel",
+    "topics": "Natur, Pflanzen, Jahreszeiten, Frühling, Herbst, Winter",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/149722.jpg",
+    "sku": "149722"
+  },
+  {
+    "name": "Perfekter Pick-up",
+    "motifs": "Pick-up, Wolken, Geschenke, Baum, Palmen, Blumen, Zaun",
+    "topics": "Auto, Fahrzeug, Geburtstag, Weihnachten, Glück, Sonne, Geschenke",
+    "phrases": [
+      "Eine Ladung Sonnenschein",
+      "Zum Weihnachtsfest jede Menge Freude",
+      "Sonderzustellung",
+      "Frisch vom Feld",
+      "Neuer Tag, neues Glück"
+    ],
+    "location": "",
+    "imageKey": "/seed/162303.jpg",
+    "sku": "162303"
+  },
+  {
+    "name": "Petal Park",
+    "motifs": "Blüten, Blumen, Blätter, Zweige",
+    "topics": "Blumen, Blüten, Natur, Frühling, Pflanzen",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/160571.jpg",
+    "sku": "160571"
+  },
+  {
+    "name": "Pop of Petals",
+    "motifs": "Grafische Blüten, Blätter, Ranken, Schmetterling",
+    "topics": "Blumen, Schmetterling, Blätter, Natur, Englisch",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/146649.jpg",
+    "sku": "146649"
+  },
+  {
+    "name": "Post vom Nikolaus",
+    "motifs": "Nikolaus, Weihnachtsmann, Geschenkesack, Briefkasten, Süßigkeiten",
+    "topics": "Weihnachten, Nikolaus, Weihnachtsmann, Geschenke, Post",
+    "phrases": [
+      "Post vom Nikolaus",
+      "Hier kommt ein lieber Gruß von mir. Schönen Nikolaustag wünsch ich dir",
+      "Genieß die Weihnachtszeit mit all ihren Gaben",
+      "Lasst uns froh & munter sein"
+    ],
+    "location": "",
+    "imageKey": "/seed/162105.jpg",
+    "sku": "162105"
+  },
+  {
+    "name": "Präriegras",
+    "motifs": "Präriegras, Gräser, Grasbüschel, Ähren",
+    "topics": "Natur, Gras, Trauer, Trost, Aufmunterung, Freundschaft",
+    "phrases": [
+      "Es kommen wieder bessere Tage!",
+      "Die Worte fehlen, aber nicht das Herz",
+      "Es tut mir so leid",
+      "Jede kleine Freude ist wie Balsam für die Seele",
+      "Fühl dich fest gedrückt"
+    ],
+    "location": "",
+    "imageKey": "/seed/166171.jpg",
+    "sku": "166171"
+  },
+  {
+    "name": "Romantische Ranunkeln",
+    "motifs": "Ranunkeln, Zweig, Bordüre, Poststempel, handschriftlicher Hintergrund",
+    "topics": "Ranunkeln, Blumen, Vintage, Brief, Post, Dank",
+    "phrases": [
+      "Danke, dass du für mich da bist",
+      "Nur für dich",
+      "Post für dich",
+      "Hallo"
+    ],
+    "location": "",
+    "imageKey": "/seed/157974.jpg",
+    "sku": "157974"
+  },
+  {
+    "name": "Runde Sache",
+    "motifs": "Kreismotive, florale Girlanden, Muscheln, Sonne, Wellen, Cupcake",
+    "topics": "Geburtstag, Meer, Muscheln, Kuchen, Dank, Gruß",
+    "phrases": [
+      "Alles Gute",
+      "Ich denk heute an dich",
+      "Ich sende dir ein",
+      "Mit lieben Grüßen",
+      "Hallo",
+      "Lächeln",
+      "Dankeschön",
+      "Happy Birthday",
+      "Glückwunsch"
+    ],
+    "location": "",
+    "imageKey": "/seed/161352.jpg",
+    "sku": "161352"
+  },
+  {
+    "name": "Rustikaler Strauß",
+    "motifs": "Herzen aus Blumen und Blättern, kleine Zweige, Blüten",
+    "topics": "Valentinstag, Liebe, Freundschaft, Herz, Blumen",
+    "phrases": [
+      "Frohen Valentinstag!",
+      "Weil ich dich mag ...",
+      "Mit Liebe für dich",
+      "Freundschaft ist Herzenssache",
+      "Ich liebe dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/160381.jpg",
+    "sku": "160381"
+  },
+  {
+    "name": "Sag’s mit Blüten",
+    "motifs": "Kleine Blüten, Blätter, Zierzweige, Schrift mit langen Linien",
+    "topics": "Blumen, Dank, Einladung, Gruß, Genesung",
+    "phrases": [
+      "Danke",
+      "Für dich",
+      "Für euch",
+      "Alles Gute",
+      "Post für dich",
+      "Gute Besserung",
+      "Einladung",
+      "Ich denk an dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/165713.jpg",
+    "sku": "165713"
+  },
+  {
+    "name": "Sag’s mit Tulpen",
+    "motifs": "Tulpenblüten, Tulpenblätter, Stiele, Sprenkel",
+    "topics": "Tulpen, Blumen, Muttertag, Geburtstag, Dank, Neuanfang",
+    "phrases": [
+      "Vielen Dank an einen lieben Menschen",
+      "Für die allerbeste Mama!",
+      "Ich hoffe, dein Geburtstag ist so toll wie du",
+      "Mit Liebe gemacht",
+      "Ich denke oft an dich",
+      "Genau heute ist der perfekte Tag für einen Neuanfang"
+    ],
+    "location": "",
+    "imageKey": "/seed/157676.jpg",
+    "sku": "157676"
+  },
+  {
+    "name": "Scenic Garden",
+    "motifs": "Gartenbank, blühender Torbogen, Gartentor, Blumentopf, Steinweg",
+    "topics": "Garten, Bank, Blumen, Torbogen, Natur, Englisch",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/160831.jpg",
+    "sku": "160831"
+  },
+  {
+    "name": "Schmetterlingsglück",
+    "motifs": "Verschiedene Schmetterlinge, Flügel, Fühler",
+    "topics": "Schmetterlinge, Natur, Dank, Geburtstag, Glückwunsch",
+    "phrases": [
+      "Alles Schwere macht uns stärker",
+      "Schön, dass du da bist!",
+      "Danke von Herzen",
+      "Zum Geburtstag alles Glück der Welt",
+      "Beste Wünsche"
+    ],
+    "location": "",
+    "imageKey": "/seed/149098.jpg",
+    "sku": "149098"
+  },
+  {
+    "name": "Schmetterlingsgruß",
+    "motifs": "Schmetterling, Blumen, Farnblatt, Wabenmuster, Bordüre",
+    "topics": "Schmetterling, Geburtstag, Natur, Aufmunterung, Blumen",
+    "phrases": [
+      "Schönen Geburtstag",
+      "Das Glück ist ein Schmetterling. Jag ihm nach, und er entwischt dir. Setz dich hin, und er lässt sich auf deiner Schulter nieder.",
+      "Sende dir eine Umarmung und liebe Grüße"
+    ],
+    "location": "",
+    "imageKey": "/seed/138355.jpg",
+    "sku": "138355"
+  },
+  {
+    "name": "Schneckenpost",
+    "motifs": "Schnecken mit Brief und Geschenk, Pilze, Herz, Sprechblase",
+    "topics": "Post, Brief, Schnecke, Geschenk, Glück, Verspätung",
+    "phrases": [
+      "Post für dich",
+      "Glück per Post",
+      "Hallo",
+      "Zu spät, aber mit Liebe!"
+    ],
+    "location": "",
+    "imageKey": "/seed/154639.jpg",
+    "sku": "154639"
+  },
+  {
+    "name": "Schneeflockenwünsche",
+    "motifs": "Schneeflocken, Eiskristalle, Schneegestöber",
+    "topics": "Winter, Schnee, Schneeflocke, Weihnachten, Fest, Dank",
+    "phrases": [
+      "Glitzernde Grüße zum Fest",
+      "Danke, du bist einmalig",
+      "Ein Hauch Winterzauber zum Weihnachtsfest",
+      "Egal wie kalt es draußen ist, beim Gedanken an dich wird mir warm ums Herz",
+      "Wünsch dir was!",
+      "Vom Himmel gefallen und für dich gefangen"
+    ],
+    "location": "",
+    "imageKey": "/seed/153773.jpg",
+    "sku": "153773"
+  },
+  {
+    "name": "Schön verschnörkelt",
+    "motifs": "Schnörkel, Zierblumen, kleiner Vogel, Blätter, Herzen",
+    "topics": "Ornament, Vogel, Blumen, Geburtstag, Danke, Gruß",
+    "phrases": [
+      "Zum Geburtstag",
+      "Vielen Dank",
+      "Hallo",
+      "Für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/158000.jpg",
+    "sku": "158000"
+  },
+  {
+    "name": "Schöne Überraschung",
+    "motifs": "Torte, Kerze, Herz mit Tulpen, Blume",
+    "topics": "Geburtstag, Überraschung, Geschenk, Wünsche, Liebe",
+    "phrases": [
+      "Wünsch dir einen schönen Geburtstag",
+      "Du hast dir doch nichts gewünscht, oder?",
+      "Du bist einfach wunderbar",
+      "Wünsch dir was!",
+      "Kleine Überraschung mit Liebe",
+      "Du bist die Beste",
+      "Hier öffnen",
+      "Für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/162855.jpg",
+    "sku": "162855"
+  },
+  {
+    "name": "Seite an Seite",
+    "motifs": "Menschen in Umarmung, Freundesgruppe, Solidaritätsschleife",
+    "topics": "Freundschaft, Unterstützung, Trost, Krankheit, Genesung, Zusammenhalt",
+    "phrases": [
+      "Zusammen ist alles möglich",
+      "Bis du wieder gesund bist",
+      "Du kannst auf mich zählen",
+      "Unterstützung",
+      "Danke für deine",
+      "Ich bin für dich da",
+      "Wir wünschen dir viel Kraft",
+      "Du hast mein vollstes"
+    ],
+    "location": "",
+    "imageKey": "/seed/149829.jpg",
+    "sku": "149829"
+  },
+  {
+    "name": "Setz die Segel",
+    "motifs": "Segelboote, Leuchtturm, Anker, Kompass, Seil, Möwen",
+    "topics": "Meer, Segeln, Leuchtturm, Reise, Freundschaft, Dank, Glückwunsch",
+    "phrases": [
+      "Du bist mein sicherer Hafen",
+      "Freundschaft gibt Halt in den stürmischen Zeiten des Lebens",
+      "Setz die Segel und nimm Kurs auf deine Träume",
+      "Danke",
+      "Glückwunsch"
+    ],
+    "location": "",
+    "imageKey": "/seed/150212.jpg",
+    "sku": "150212"
+  },
+  {
+    "name": "So gut wie perfekt",
+    "motifs": "Geburtstagsballon, Wunderkerzen, typografische Sprüche",
+    "topics": "Geburtstag, Humor, nachträglicher Glückwunsch, Alter",
+    "phrases": [
+      "Die schlechte Nachricht: Ich hab deinen Geburtstag vergessen. Die gute Nachricht: Dein Alter auch.",
+      "Wieder ein Jahr älter. Na und? Du bist und bleibst umwerfend!",
+      "Schönen Geburtstag!",
+      "Manches wird mit dem Alter immer besser. Du bist schon so gut wie perfekt.",
+      "Eilmeldung: Geburtstage verlängern offenbar das Leben!"
+    ],
+    "location": "",
+    "imageKey": "/seed/155288.jpg",
+    "sku": "155288"
+  },
+  {
+    "name": "Sprache des Herzens",
+    "motifs": "Blütenherz, Blumen, Blätter",
+    "topics": "Hochzeit, Liebe, Herz, Geschenk, Danke",
+    "phrases": [
+      "Mit Liebe geschenkt",
+      "Zur Hochzeit",
+      "Unsere Herzen schlagen im gleichen Takt",
+      "Für euch zwei",
+      "Danke"
+    ],
+    "location": "",
+    "imageKey": "/seed/164952.jpg",
+    "sku": "164952"
+  },
+  {
+    "name": "Stars at Night",
+    "motifs": "Weihnachtssterne, Sternschnuppen, Funkeln, Zweige",
+    "topics": "Weihnachten, Sterne, Winter, Grüße, Englisch",
+    "phrases": [
+      "Celebrating the magic of the season",
+      "Merry Christmas",
+      "Wishing you the best & brightest holiday season"
+    ],
+    "location": "",
+    "imageKey": "/seed/162000.jpg",
+    "sku": "162000"
+  },
+  {
+    "name": "Sternenglanz",
+    "motifs": "Weihnachtssterne in verschiedenen Formen, Funkeln, Sternenstaub",
+    "topics": "Weihnachten, Sterne, Fest, Freude, Glück, Liebe",
+    "phrases": [
+      "Strahlend schöne Weihnachten und jede Menge Lichtblicke im neuen Jahr",
+      "Frohe Feiertage!",
+      "Grüße mit Sternenglanz und Weihnachtszauber",
+      "In dieser Karte stecken so viele gute Wünsche, wie Sterne am Himmel stehen.",
+      "Sein schönstes Sternenkleid trägt der Himmel zur Weihnachtszeit",
+      "Freude",
+      "Liebe",
+      "Glück"
+    ],
+    "location": "",
+    "imageKey": "/seed/150729.jpg",
+    "sku": "150729"
+  },
+  {
+    "name": "Stilvolle Stiefmütterchen",
+    "motifs": "Stiefmütterchen in mehreren Lagen, Blätter, Stiele",
+    "topics": "Blumen, Stiefmütterchen, Geburtstag, Dank, Gruß, Trost",
+    "phrases": [
+      "Hier kommt ein Blumengruß, weil ich an dich denke",
+      "Mit kleinen Dingen bewirkst du so viel",
+      "Besten Dank",
+      "Alles Gute zum Geburtstag",
+      "Fühl dich gedrückt",
+      "Kleiner Gruß von mir für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/155677.jpg",
+    "sku": "155677"
+  },
+  {
+    "name": "Storybook Garden Patch",
+    "motifs": "Erbsen, Radieschen, Erdbeeren, Karotte, Salat, Gießkanne, Gartengeräte, Blumentöpfe",
+    "topics": "Garten, Gemüse, Erdbeere, Karotte, Pflanzen, Gießkanne, Englisch",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/164663.jpg",
+    "sku": "164663"
+  },
+  {
+    "name": "Süße Seemöwen",
+    "motifs": "Möwen, fliegende Vögel, Fische, Pommes, Muscheln, Meer",
+    "topics": "Meer, Möwen, Küste, Strand, Pommes, Freundschaft, Gruß",
+    "phrases": [
+      "Hey du!",
+      "Mag dich mehr als Pommes",
+      "Meerweh?",
+      "Moin!"
+    ],
+    "location": "",
+    "imageKey": "/seed/165053.jpg",
+    "sku": "165053"
+  },
+  {
+    "name": "Süßes Bonbonglas",
+    "motifs": "Bonbonglas, Süßigkeiten, Blüten, Herzen, Kerzen, Konfetti",
+    "topics": "Geburtstag, Süßigkeiten, Bonbons, Geschenk, Party, Glück",
+    "phrases": [
+      "Zum Geburtstag",
+      "Für Notfälle",
+      "Eine süße Kleinigkeit",
+      "Eine Portion",
+      "Naschkram",
+      "To go",
+      "Liebe",
+      "Glück",
+      "Party"
+    ],
+    "location": "",
+    "imageKey": "/seed/165505.jpg",
+    "sku": "165505"
+  },
+  {
+    "name": "Süßes Sternchen",
+    "motifs": "Lebkuchenstern, Weihnachtsmann, Weihnachtsfrau, Schneeflocken",
+    "topics": "Weihnachten, Plätzchen, Backen, Stern, Schnee, Fest",
+    "phrases": [
+      "Schöne Feiertage mit Zeit zum Genießen",
+      "O du Leckere",
+      "Süße Grüße",
+      "Auf die Plätzchen, fertig, los!"
+    ],
+    "location": "",
+    "imageKey": "/seed/164294.jpg",
+    "sku": "164294"
+  },
+  {
+    "name": "Tannen & Karos",
+    "motifs": "Weihnachtsbäume, Tannen, Zapfen, Karomuster",
+    "topics": "Weihnachten, Tannenbaum, Winter, Fest, Post",
+    "phrases": [
+      "Nach diesem turbulenten Jahr ein ruhiges und schönes Weihnachtsfest",
+      "Weihnachtspost für dich",
+      "Frohe Weihnachten",
+      "Ho, ho, ho!",
+      "Mit den besten Wünschen für fröhliche und erholsame Feiertage"
+    ],
+    "location": "",
+    "imageKey": "/seed/150308.jpg",
+    "sku": "150308"
+  },
+  {
+    "name": "Tintenträume",
+    "motifs": "Kolibri, Schmetterling, Blumen, Blätter, Aquarellformen, Sprenkel",
+    "topics": "Natur, Schmetterling, Kolibri, Blumen, Dank, Gruß",
+    "phrases": [
+      "Beste Wünsche",
+      "Liebes Dankeschön",
+      "Hallo",
+      "Ich schicke dir einen Gruß",
+      "Für dich",
+      "Alles wird gut"
+    ],
+    "location": "",
+    "imageKey": "/seed/155262.jpg",
+    "sku": "155262"
+  },
+  {
+    "name": "Tulpengrüße",
+    "motifs": "Tulpenblüten, Blätter, Stängel",
+    "topics": "Tulpen, Frühling, Ostern, Muttertag, Geburtstag, Trost, Genesung",
+    "phrases": [
+      "Die Erinnerung an gestern gibt uns Trost und Kraft für morgen",
+      "Frohe Ostern weit und breit und eine schöne Frühlingszeit",
+      "Na du?",
+      "Es ist soooo schön, dass es dich gibt!",
+      "Alles Liebe zum Muttertag",
+      "Gute Besserung!",
+      "Geburtstagsblumen für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/152212.jpg",
+    "sku": "152212"
+  },
+  {
+    "name": "Tune In",
+    "motifs": "Fernseher, Blitz, Pixel, Glitzersterne, Antenne",
+    "topics": "Fernseher, Retro, Geburtstag, Nachricht, Englisch",
+    "phrases": [
+      "You’re Super",
+      "Stay tuned for an important message",
+      "News Flash",
+      "Happy Birthday",
+      "You’re Classic"
+    ],
+    "location": "",
+    "imageKey": "/seed/163633.jpg",
+    "sku": "163633"
+  },
+  {
+    "name": "Two-Tone Flora",
+    "motifs": "Mehrteilige Blüten, Blumen, Blätter, Zweige",
+    "topics": "Blumen, Blüten, Pflanzen, Frühling, Natur, Englisch",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/160844.jpg",
+    "sku": "160844"
+  },
+  {
+    "name": "Uniquely Artistic",
+    "motifs": "Abstrakte Blüten, Blütenzweige, Blätter, botanische Aquarellflächen",
+    "topics": "Blumen, Pflanzen, Kunst, Hintergründe, Englisch",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/158935.jpg",
+    "sku": "158935"
+  },
+  {
+    "name": "Very Versailles",
+    "motifs": "Barocker Rahmen, Blätterzweig, Bordüre, Handschrift-Hintergrund",
+    "topics": "Vintage, Barock, Ornament, Dank, Englisch",
+    "phrases": [
+      "Always thinking of you",
+      "Have a beautiful day",
+      "Thank you"
+    ],
+    "location": "",
+    "imageKey": "/seed/149275.jpg",
+    "sku": "149275"
+  },
+  {
+    "name": "Vintage-Blüten",
+    "motifs": "Vintage Blumenstrauß, Blüten, Blätter, Ranke",
+    "topics": "Blumen, Vintage, Hochzeit, Ehrentag, Abschied, Freundschaft, Dank",
+    "phrases": [
+      "Alles Gute zu deinem Ehrentag",
+      "Lieben Dank",
+      "Wir nehmen Abschied",
+      "Einladung zur Hochzeit",
+      "Genieße die kleinen Dinge, denn sie machen das Leben großartig",
+      "Danke für deine Freundschaft"
+    ],
+    "location": "",
+    "imageKey": "/seed/158123.jpg",
+    "sku": "158123"
+  },
+  {
+    "name": "Volle Möhre",
+    "motifs": "Karotten, Möhrengrün, Blätter, Punkte",
+    "topics": "Ostern, Karotten, Möhre, Gemüse, Freundschaft, Humor",
+    "phrases": [
+      "Volle Möhre",
+      "Alles trübe? Da hilft ’ne Rübe!",
+      "Vegane Ostergrüße",
+      "Hallöchen",
+      "Mag dich",
+      "Da schau an!",
+      "Gib",
+      "Wir sind zusammen gewachsen"
+    ],
+    "location": "",
+    "imageKey": "/seed/160820.jpg",
+    "sku": "160820"
+  },
+  {
+    "name": "Vollendet verziert",
+    "motifs": "Symmetrische Zierornamente, dekorative Ecke, Herz",
+    "topics": "Ornament, Verzierung, Lob, Geschenk, Liebe",
+    "phrases": [
+      "Du bist einfach Spitzenklasse",
+      "Alles, alles Liebe",
+      "Für dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/150026.jpg",
+    "sku": "150026"
+  },
+  {
+    "name": "Vom größten Fan",
+    "motifs": "Wimpel, Schildrahmen, Sterne, Sprenkel",
+    "topics": "Vatertag, Papa, Vater, Geburtstag, Fan, Lob",
+    "phrases": [
+      "Für den besten Papa",
+      "Von deinem größten Fan",
+      "Immer Nummer 1",
+      "Schönen Vatertag für dich",
+      "Zum Geburtstag",
+      "Hurra"
+    ],
+    "location": "",
+    "imageKey": "/seed/158064.jpg",
+    "sku": "158064"
+  },
+  {
+    "name": "Weihnachtsfreude im Glas",
+    "motifs": "Einmachglas, Lebkuchenmann, Stern, Herz, Schneemann, Christbaumkugel",
+    "topics": "Weihnachten, Winter, Glas, Schneemann, Lebkuchen, Geschenk",
+    "phrases": [
+      "Ganz viel Weihnachtsfreude",
+      "Endlich wieder Plätzchenzeit",
+      "Zum Fest viele süße Stunden"
+    ],
+    "location": "",
+    "imageKey": "/seed/166180.jpg",
+    "sku": "166180"
+  },
+  {
+    "name": "Weihnachtshirsch",
+    "motifs": "Zierlicher Hirsch, Hirsche, Blumenornament",
+    "topics": "Weihnachten, Hirsch, Rentier, Fest, Dank",
+    "phrases": [
+      "Mit lieben Gedanken und den allerbesten Wünschen",
+      "Herzliche Weihnachtsgrüße",
+      "Gruß zum Fest",
+      "Und ein großes Dankeschön für alles im vergangenen Jahr"
+    ],
+    "location": "",
+    "imageKey": "/seed/151697.jpg",
+    "sku": "151697"
+  },
+  {
+    "name": "Weihnachtsmix",
+    "motifs": "Verschiedene Weihnachtssprüche in mehreren Schriften",
+    "topics": "Weihnachten, Advent, Grüße, Neujahr, Fest, Brief",
+    "phrases": [
+      "Guten Rutsch!",
+      "Vom Christkind",
+      "Viele liebe Weihnachtsgrüße",
+      "Ein gesegnetes Weihnachtsfest",
+      "Frieden im Advent",
+      "Weihnachtspost",
+      "Herzliche Festtagsgrüße",
+      "Frohe Feiertage",
+      "Fröhliche Weihnachten",
+      "Schöne Weihnachten",
+      "Erfüll dir einen Wunsch",
+      "Frohe Weihnachten und viel Glück im neuen Jahr",
+      "Wir wünschen Ihnen schöne Feiertage",
+      "Fest zur Bescherung öffnen!",
+      "O du Leckere",
+      "Aus der Ferne liebe Grüße zum Fest"
+    ],
+    "location": "",
+    "imageKey": "/seed/150735.jpg",
+    "sku": "150735"
+  },
+  {
+    "name": "Werkstattworte",
+    "motifs": "Sportwagen, Werkzeugkasten, Schrauben, Ölkanne, Kleckse",
+    "topics": "Auto, Werkstatt, Werkzeug, Vatertag, Männer, Vater",
+    "phrases": [
+      "Für einen echten Klassiker!",
+      "Du bist nicht der Hammer. Du bist der ganze Werkzeugkasten!",
+      "Du bist der Renner",
+      "Schönen Vatertag",
+      "Bester Papa"
+    ],
+    "location": "",
+    "imageKey": "/seed/149154.jpg",
+    "sku": "149154"
+  },
+  {
+    "name": "Wichtelweihnacht",
+    "motifs": "Weihnachtswichtel, Wichteltür, Weihnachtsbaum, Lichterkette",
+    "topics": "Weihnachten, Wichtel, Advent, Winter, Grüße",
+    "phrases": [
+      "Mit Liebe gemacht, weil du mir wichtig bist",
+      "Kleiner Weihnachtsgruß",
+      "Geschenk für dich aus der Wichtelwerkstatt",
+      "Fröhliche Weihnachten!"
+    ],
+    "location": "",
+    "imageKey": "/seed/155976.jpg",
+    "sku": "155976"
+  },
+  {
+    "name": "Wie ein Diamant",
+    "motifs": "Typografische Sprüche für Mutter, Freundin und Frau",
+    "topics": "Muttertag, Mama, Frau, Freundin, Dank, Ermutigung",
+    "phrases": [
+      "Alles Liebe zum Muttertag",
+      "Für die liebste Mama und eine wahre Freundin",
+      "Hab dich unglaublich lieb!",
+      "Für eine Frau, die immer so viel gibt",
+      "Das Beste an mir habe ich von dir.",
+      "Für die Frau, die mir gezeigt hat, was innere Kraft bedeutet.",
+      "Danke, dass du immer für mich da bist.",
+      "Du bist wie ein Diamant wertvoll, stark und wunderschön",
+      "Du bist fantastisch. Punkt.",
+      "Folge deinen Träumen. Ich geb dir Rückenwind!",
+      "Was für ein gutes Gefühl, dass ich immer auf dich zählen kann!",
+      "Du kannst alles schaffen & ich bin so stolz auf dich"
+    ],
+    "location": "",
+    "imageKey": "/seed/149218.jpg",
+    "sku": "149218"
+  },
+  {
+    "name": "Wie Muscheln",
+    "motifs": "Muscheln, Schneckenhäuser, Seestern, Sanddollar, Seegras, Sand und Farbflecken",
+    "topics": "Meer, Strand, Muscheln, Küste, Freundschaft, Dank, Urlaub",
+    "phrases": [
+      "Alles Liebe und einen wunderbaren Tag",
+      "Du bist einzigartig und wirklich ein Schatz",
+      "Freunde sind wie Muscheln ... die besten behält man für immer",
+      "Allerbeste Wünsche von uns",
+      "Schön, dich gefunden zu haben",
+      "Für dich",
+      "Danke für alles",
+      "Wenn du mal Meer willst"
+    ],
+    "location": "",
+    "imageKey": "/seed/154372.jpg",
+    "sku": "154372"
+  },
+  {
+    "name": "Winterwald",
+    "motifs": "Tannenbaum, kahle Winterbäume, Birkenstämme, Zapfen, Tannenzweig",
+    "topics": "Winter, Wald, Tannenbaum, Weihnachten, Natur, Neuanfang",
+    "phrases": [
+      "Jeder Tag ist ein neuer Anfang"
+    ],
+    "location": "",
+    "imageKey": "/seed/151683.jpg",
+    "sku": "151683"
+  },
+  {
+    "name": "Wonderful World",
+    "motifs": "Kornblumen, Rose, Iris, Blätter",
+    "topics": "Blumen, Pflanzen, Rose, Natur, englischer Setname",
+    "phrases": [],
+    "location": "",
+    "imageKey": "/seed/159916.jpg",
+    "sku": "159916"
+  },
+  {
+    "name": "Wunderbare Welt",
+    "motifs": "Globus, Kompass, Feder, Tintenfass",
+    "topics": "Welt, Reise, Abenteuer, Neuanfang, Dank, Glückwunsch",
+    "phrases": [
+      "Die Welt ist nicht perfekt",
+      "Das Abenteuer beginnt!",
+      "Aber dank dir viel schöner",
+      "Heute dreht sich alles nur um dich",
+      "Glückwunsch und alles Gute zum Neuanfang"
+    ],
+    "location": "",
+    "imageKey": "/seed/153000.jpg",
+    "sku": "153000"
+  },
+  {
+    "name": "Wunderschöne Werke",
+    "motifs": "Gräserrand, Zweige, Blätter, Beerenzweig, Herz mit Textstruktur",
+    "topics": "Natur, Zweige, Freundin, Dank, Begrüßung",
+    "phrases": [
+      "Für eine wahre Freundin",
+      "Besten Dank",
+      "Hallo"
+    ],
+    "location": "",
+    "imageKey": "/seed/161199.jpg",
+    "sku": "161199"
+  },
+  {
+    "name": "Wünsche aus dem Garten",
+    "motifs": "Pusteblume, Löwenzahn, Biene, Blüten, Samenstände",
+    "topics": "Garten, Blumen, Löwenzahn, Pusteblume, Wünsche, Geschenk, Freundschaft",
+    "phrases": [
+      "Schließ die Augen und wünsch dir was!",
+      "Die besten Wünsche",
+      "Mit Liebe gemacht",
+      "Gruß aus der Ferne",
+      "Von uns allen",
+      "Hallo"
+    ],
+    "location": "",
+    "imageKey": "/seed/154594.jpg",
+    "sku": "154594"
+  },
+  {
+    "name": "Wünsche und Worte",
+    "motifs": "Kombinierbare Textstempel in Druckschrift und Schreibschrift",
+    "topics": "Geburtstag, Hochzeit, Einladung, Glückwunsch, Danke, Gruß",
+    "phrases": [
+      "Glückwunsch",
+      "Hochzeitstag",
+      "Großen Tag",
+      "Zum Geburtstag",
+      "Danke",
+      "Herzlichen",
+      "Einladung",
+      "Beste",
+      "Besonderen",
+      "Geburtstag",
+      "Vielmals",
+      "Wünsche",
+      "Ich wünsch dir heute einen Tag voller Glück",
+      "Hallo",
+      "Herzenssache",
+      "Liebe",
+      "Glückwunsch"
+    ],
+    "location": "",
+    "imageKey": "/seed/165088.jpg",
+    "sku": "165088"
+  },
+  {
+    "name": "Zauberhafte Grüße",
+    "motifs": "Blumen, Blätter, Blütenzweige, Ornamente",
+    "topics": "Freundschaft, Danke, Einladung, Blumen, Pflanzen, Ermutigung",
+    "phrases": [
+      "Du bist mein Lieblingsmensch",
+      "Zusammen ist alles schöner",
+      "Kleiner Aufmunterer für dich!",
+      "Für immer und ewig",
+      "Hallöchen",
+      "Großes Dankeschön",
+      "Von Herzen",
+      "Von mir für dich",
+      "Einladung",
+      "Weißt du was? Du bist zauberhaft",
+      "Dem Auge fern, dem Herzen nah"
+    ],
+    "location": "",
+    "imageKey": "/seed/152922.jpg",
+    "sku": "152922"
+  },
+  {
+    "name": "Zusammen",
+    "motifs": "Typografische Sprüche",
+    "topics": "Freundschaft, Zusammenhalt, Trost, Danke, Unterstützung",
+    "phrases": [
+      "Wir schaffen das zusammen",
+      "Ich kann deine Probleme nicht für dich lösen. Aber ich stehe dir immer zur Seite.",
+      "Tut mir so leid für dich",
+      "Bin so froh, dass ich dich habe!",
+      "Ich wünschte, ich könnte dein Herz irgendwie heilen",
+      "Vielen Dank"
+    ],
+    "location": "",
+    "imageKey": "/seed/155297.jpg",
+    "sku": "155297"
+  },
+  {
+    "name": "Über den Wolken",
+    "motifs": "Heißluftballons, Wolken, Vögel, Wimpelkette, Herz",
+    "topics": "Ballon, Himmel, Reise, Neuanfang, Ermutigung, Träume",
+    "phrases": [
+      "Auf zu neuen Horizonten!",
+      "Träume sind nie zu groß.",
+      "Du gibst mir Rückenwind.",
+      "Luftpost für dich",
+      "Lass dich mal treiben!"
+    ],
+    "location": "",
+    "imageKey": "/seed/150261.jpg",
+    "sku": "150261"
+  }
+];

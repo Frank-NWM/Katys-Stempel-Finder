@@ -36,8 +36,10 @@ export default async function handler(request) {
       const sku=new URL(request.url).searchParams.get('sku')||'';
       if(!validSku(sku))return respond({error:'Ungültige Artikelnummer.'},400);
       const existing=await store.get(`sets/${sku}`,{type:'json'});
-      if(!existing)return respond({error:'Dieses hochgeladene Set wurde nicht gefunden.'},404);
-      await store.delete(`sets/${sku}`);
+      const initial=seed.find(s=>s.sku===sku);
+      if(!existing&&!initial)return respond({error:'Dieses Set wurde nicht gefunden.'},404);
+      if(initial)await store.setJSON(`sets/${sku}`,{sku,deleted:true});
+      else await store.delete(`sets/${sku}`);
       const oldId=existing.imageKey?.match(/[?&]id=([0-9a-f-]{36})/i)?.[1];
       if(oldId)await images.delete(`covers/${oldId}`).catch(e=>console.error('Cover cleanup',e));
       return respond({deleted:true,sku});
@@ -47,12 +49,14 @@ export default async function handler(request) {
     const sku=string('sku').replace(/\s/g,'');
     const name=string('name');
     if(!validSku(sku)||!name||name.length>150) return respond({error:'Bitte Namen und gültige Artikelnummer eingeben.'},400);
-    if(seed.some(s=>s.sku===sku)) return respond({error:'Diese Artikelnummer gehört bereits zum Startbestand und kann hier nicht geändert werden.'},409);
+    const initial=seed.find(s=>s.sku===sku);
+    if(request.method==='POST'&&initial)return respond({error:'Diese Artikelnummer ist bereits erfasst.'},409);
     const originalSku=string('originalSku');
     if(request.method==='PUT'&&originalSku!==sku)return respond({error:'Die Artikelnummer kann nicht geändert werden. Bitte das Set löschen und neu hinzufügen.'},400);
-    const existing=await store.get(`sets/${sku}`,{type:'json'});
-    if(request.method==='PUT'&&!existing)return respond({error:'Dieses hochgeladene Set wurde nicht gefunden.'},404);
-    if(request.method==='POST'&&existing)return respond({error:'Diese Artikelnummer ist bereits erfasst.'},409);
+    const stored=await store.get(`sets/${sku}`,{type:'json'});
+    const existing=stored&&!stored.deleted?stored:initial;
+    if(request.method==='PUT'&&!existing)return respond({error:'Dieses Set wurde nicht gefunden.'},404);
+    if(request.method==='POST'&&stored)return respond({error:'Diese Artikelnummer ist bereits erfasst.'},409);
     const file=form.get('image');
     let key='',imageKey=request.method==='PUT'&&!form.has('removeImage')?existing.imageKey||'':'';
     if(file instanceof File && file.size){
