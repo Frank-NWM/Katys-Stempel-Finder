@@ -20,10 +20,12 @@
     $('lookup').disabled=true;try{const response=await fetch('/.netlify/functions/lookup?sku='+encodeURIComponent(sku),{cache:'no-store'});const data=await response.json();if(response.ok&&data.name){$('name').value=data.name;showMessage('Produktname beim Hersteller gefunden. Bitte Angaben und Cover prüfen.',false,true);}else{showMessage(data.error||'Beim Hersteller nicht gefunden. Erfasse das Set mit einem eigenen Foto.',true,true);if(data.searchUrl){const a=elt('a','','Artikelnummer zusätzlich im Web suchen ↗');a.href=data.searchUrl;a.target='_blank';a.rel='noopener noreferrer';$('formMessage').append(' ',a);}}}catch{showMessage('Die Suche ist nicht verfügbar. Bitte Daten selbst eintragen.',true,true);}finally{$('lookup').disabled=false;}}
   function clearPreview(){const img=$('preview');if(img.dataset.objectUrl)URL.revokeObjectURL(img.dataset.objectUrl);delete img.dataset.objectUrl;img.removeAttribute('src');img.hidden=true;$('cameraPrompt').hidden=false;$('cropOpen').hidden=true;}
   let cropBitmap=null,cropOffset={x:0,y:0},cropDrag=null,cropWhole=false;
+  const cropPointers=new Map();let cropPinch=null;
   const cropFrame={x:90,y:40,w:420,h:520};
   function cropGeometry(){const canvas=$('cropCanvas'),frame=cropWhole?{x:0,y:0,w:600,h:600}:cropFrame;
     const base=cropWhole?Math.min(600/cropBitmap.width,600/cropBitmap.height):Math.max(560/cropBitmap.width,560/cropBitmap.height);
     const scale=base*Number($('cropZoom').value)/100,w=cropBitmap.width*scale,h=cropBitmap.height*scale;
+    if(!cropWhole){if(frame.w>w){frame.x+=(frame.w-w)/2;frame.w=w;}if(frame.h>h){frame.y+=(frame.h-h)/2;frame.h=h;}}
     let x=300-w/2+cropOffset.x,y=300-h/2+cropOffset.y;
     if(!cropWhole){x=Math.max(frame.x+frame.w-w,Math.min(frame.x,x));y=Math.max(frame.y+frame.h-h,Math.min(frame.y,y));cropOffset={x:x-(300-w/2),y:y-(300-h/2)};}
     return {frame,scale,w,h,x,y};
@@ -32,9 +34,9 @@
     if(!cropWhole){ctx.fillStyle='rgba(20,35,25,.62)';ctx.fillRect(0,0,canvas.width,g.frame.y);ctx.fillRect(g.frame.x+g.frame.w,g.frame.y,canvas.width-g.frame.x-g.frame.w,g.frame.h);ctx.fillRect(0,g.frame.y+g.frame.h,canvas.width,canvas.height-g.frame.y-g.frame.h);ctx.fillRect(0,g.frame.y,g.frame.x,g.frame.h);ctx.strokeStyle='#fff';ctx.lineWidth=4;ctx.strokeRect(g.frame.x,g.frame.y,g.frame.w,g.frame.h);
       ctx.fillStyle='#fff';for(const [hx,hy] of [[g.frame.x,g.frame.y],[g.frame.x+g.frame.w,g.frame.y],[g.frame.x,g.frame.y+g.frame.h],[g.frame.x+g.frame.w,g.frame.y+g.frame.h],[g.frame.x+g.frame.w/2,g.frame.y],[g.frame.x+g.frame.w/2,g.frame.y+g.frame.h],[g.frame.x,g.frame.y+g.frame.h/2],[g.frame.x+g.frame.w,g.frame.y+g.frame.h/2]]){ctx.beginPath();ctx.arc(hx,hy,10,0,Math.PI*2);ctx.fill();}}
   }
-  function cropSize(){const canvas=$('cropCanvas');canvas.width=600;canvas.height=600;Object.assign(cropFrame,{x:90,y:40,w:420,h:520});cropOffset={x:0,y:0};$('cropZoom').value='100';cropDraw();}
+  function cropSize(){const canvas=$('cropCanvas');canvas.width=600;canvas.height=600;Object.assign(cropFrame,{x:90,y:40,w:420,h:520});cropOffset={x:0,y:0};cropPointers.clear();cropPinch=null;cropDrag=null;$('cropZoom').value='100';cropDraw();}
   async function cropOpen(){try{const selected=cover||$('photo').files?.[0];const response=selected?selected:await fetch($('preview').src);if(!selected&&!response.ok)throw Error('Das Cover konnte nicht geladen werden.');const blob=selected||await response.blob();cropBitmap=await createImageBitmap(blob);cropWhole=false;cropSize();$('cropDialog').showModal();}catch(e){showMessage(e.message||'Bildbearbeitung nicht möglich.',true,true);}}
-  function cropClose(){if($('cropDialog').open)$('cropDialog').close();cropBitmap?.close();cropBitmap=null;cropDrag=null;}
+  function cropClose(){if($('cropDialog').open)$('cropDialog').close();cropBitmap?.close();cropBitmap=null;cropDrag=null;cropPinch=null;cropPointers.clear();}
   async function cropRotate(){if(!cropBitmap)return;const canvas=document.createElement('canvas');canvas.width=cropBitmap.height;canvas.height=cropBitmap.width;const ctx=canvas.getContext('2d');ctx.translate(canvas.width,0);ctx.rotate(Math.PI/2);ctx.drawImage(cropBitmap,0,0);const rotated=await createImageBitmap(canvas);cropBitmap.close();cropBitmap=rotated;cropSize();}
   async function cropApply(){if(!cropBitmap)return;const g=cropGeometry(),f=g.frame;const sx=cropWhole?0:Math.max(0,(f.x-g.x)/g.scale),sy=cropWhole?0:Math.max(0,(f.y-g.y)/g.scale),sw=cropWhole?cropBitmap.width:Math.min(cropBitmap.width-sx,f.w/g.scale),sh=cropWhole?cropBitmap.height:Math.min(cropBitmap.height-sy,f.h/g.scale);
     const output=document.createElement('canvas'),factor=Math.min(1,1600/Math.max(sw,sh));output.width=Math.max(1,Math.round(sw*factor));output.height=Math.max(1,Math.round(sh*factor));output.getContext('2d').drawImage(cropBitmap,sx,sy,sw,sh,0,0,output.width,output.height);
@@ -51,14 +53,16 @@
   $('cropZoom').addEventListener('input',()=>{if(!cropWhole)cropDraw();else{cropWhole=false;cropOffset={x:0,y:0};cropDraw();}});
   $('cropDialog').addEventListener('close',()=>{cropBitmap?.close();cropBitmap=null;});
   function cropPoint(event){const box=$('cropCanvas').getBoundingClientRect();return{x:(event.clientX-box.left)*600/box.width,y:(event.clientY-box.top)*600/box.height,tolerance:28*600/box.width};}
-  $('cropCanvas').addEventListener('pointerdown',event=>{if(!cropBitmap)return;const p=cropPoint(event);if(cropWhole){cropWhole=false;Object.assign(cropFrame,{x:20,y:20,w:560,h:560});cropDraw();}const f=cropFrame,t=p.tolerance;
+  $('cropCanvas').addEventListener('pointerdown',event=>{if(!cropBitmap)return;const p=cropPoint(event);cropPointers.set(event.pointerId,p);$('cropCanvas').setPointerCapture(event.pointerId);if(cropWhole){cropWhole=false;Object.assign(cropFrame,{x:20,y:20,w:560,h:560});cropDraw();}if(cropPointers.size>=2){cropDrag=null;const [a,b]=[...cropPointers.values()],g=cropGeometry();cropPinch={distance:Math.max(1,Math.hypot(a.x-b.x,a.y-b.y)),zoom:Number($('cropZoom').value),g,center:{x:(a.x+b.x)/2,y:(a.y+b.y)/2}};return;}const f=cropFrame,t=p.tolerance;
     const nearX=p.x>=f.x-t&&p.x<=f.x+f.w+t,nearY=p.y>=f.y-t&&p.y<=f.y+f.h+t;
     const edges={left:nearY&&Math.abs(p.x-f.x)<=t,right:nearY&&Math.abs(p.x-f.x-f.w)<=t,top:nearX&&Math.abs(p.y-f.y)<=t,bottom:nearX&&Math.abs(p.y-f.y-f.h)<=t};
     cropDrag={id:event.pointerId,p,edges,frame:{...f},offset:{...cropOffset}};$('cropCanvas').setPointerCapture(event.pointerId);});
-  $('cropCanvas').addEventListener('pointermove',event=>{if(!cropDrag||cropDrag.id!==event.pointerId)return;const p=cropPoint(event),d=cropDrag,dx=p.x-d.p.x,dy=p.y-d.p.y,e=d.edges,f=d.frame;
+  $('cropCanvas').addEventListener('pointermove',event=>{if(!cropPointers.has(event.pointerId))return;const point=cropPoint(event);cropPointers.set(event.pointerId,point);
+    if(cropPinch&&cropPointers.size>=2){const [a,b]=[...cropPointers.values()],z=Math.max(20,Math.min(300,cropPinch.zoom*Math.hypot(a.x-b.x,a.y-b.y)/cropPinch.distance)),g=cropPinch.g,c=cropPinch.center,center={x:(a.x+b.x)/2,y:(a.y+b.y)/2};$('cropZoom').value=String(z);const actual=Number($('cropZoom').value)/cropPinch.zoom;cropOffset={x:center.x-(c.x-g.x)*actual-(300-g.w*actual/2),y:center.y-(c.y-g.y)*actual-(300-g.h*actual/2)};cropDraw();return;}
+    if(!cropDrag||cropDrag.id!==event.pointerId)return;const p=point,d=cropDrag,dx=p.x-d.p.x,dy=p.y-d.p.y,e=d.edges,f=d.frame;
     if(Object.values(e).some(Boolean)){let left=f.x,right=f.x+f.w,top=f.y,bottom=f.y+f.h;if(e.left)left=Math.max(20,Math.min(right-100,f.x+dx));if(e.right)right=Math.min(580,Math.max(left+100,f.x+f.w+dx));if(e.top)top=Math.max(20,Math.min(bottom-100,f.y+dy));if(e.bottom)bottom=Math.min(580,Math.max(top+100,f.y+f.h+dy));Object.assign(cropFrame,{x:left,y:top,w:right-left,h:bottom-top});}
     else cropOffset={x:d.offset.x+dx,y:d.offset.y+dy};cropDraw();});
-  for(const type of ['pointerup','pointercancel'])$('cropCanvas').addEventListener(type,()=>{cropDrag=null;});
+  for(const type of ['pointerup','pointercancel','lostpointercapture'])$('cropCanvas').addEventListener(type,event=>{cropPointers.delete(event.pointerId);cropPinch=null;cropDrag=null;if(cropPointers.size===1){const [id,p]=[...cropPointers.entries()][0];cropDrag={id,p,edges:{},frame:{...cropFrame},offset:{...cropOffset}};}});
   $('imageClose').addEventListener('click',()=>$('imageDialog').close());$('imageDialog').addEventListener('click',event=>{if(event.target===$('imageDialog'))$('imageDialog').close();});$('imageDialog').addEventListener('close',()=>{$('largeImage').removeAttribute('src');});
   refresh();setInterval(refresh,30000);
 })();
