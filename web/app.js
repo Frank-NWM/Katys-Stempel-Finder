@@ -21,18 +21,18 @@
   function clearPreview(){const img=$('preview');if(img.dataset.objectUrl)URL.revokeObjectURL(img.dataset.objectUrl);delete img.dataset.objectUrl;img.removeAttribute('src');img.hidden=true;$('cameraPrompt').hidden=false;$('cropOpen').hidden=true;}
   let cropBitmap=null,cropOffset={x:0,y:0},cropDrag=null,cropWhole=false;
   const cropFrame={x:90,y:40,w:420,h:520};
-  function cropGeometry(){const canvas=$('cropCanvas'),frame=cropWhole?{x:0,y:0,w:canvas.width,h:canvas.height}:cropFrame;
-    const base=cropWhole?Math.min(frame.w/cropBitmap.width,frame.h/cropBitmap.height):Math.max(frame.w/cropBitmap.width,frame.h/cropBitmap.height);
-    const scale=base*Number($('cropZoom').value)/100;
-    const w=cropBitmap.width*scale,h=cropBitmap.height*scale;
-    cropOffset.x=Math.max(Math.min(cropOffset.x,(w-frame.w)/2),-(w-frame.w)/2);
-    cropOffset.y=Math.max(Math.min(cropOffset.y,(h-frame.h)/2),-(h-frame.h)/2);
-    return {frame,scale,w,h,x:frame.x+(frame.w-w)/2+cropOffset.x,y:frame.y+(frame.h-h)/2+cropOffset.y};
+  function cropGeometry(){const canvas=$('cropCanvas'),frame=cropWhole?{x:0,y:0,w:600,h:600}:cropFrame;
+    const base=cropWhole?Math.min(600/cropBitmap.width,600/cropBitmap.height):Math.max(560/cropBitmap.width,560/cropBitmap.height);
+    const scale=base*Number($('cropZoom').value)/100,w=cropBitmap.width*scale,h=cropBitmap.height*scale;
+    let x=300-w/2+cropOffset.x,y=300-h/2+cropOffset.y;
+    if(!cropWhole){x=Math.max(frame.x+frame.w-w,Math.min(frame.x,x));y=Math.max(frame.y+frame.h-h,Math.min(frame.y,y));cropOffset={x:x-(300-w/2),y:y-(300-h/2)};}
+    return {frame,scale,w,h,x,y};
   }
   function cropDraw(){if(!cropBitmap)return;const canvas=$('cropCanvas'),ctx=canvas.getContext('2d'),g=cropGeometry();ctx.fillStyle='#e9eee7';ctx.fillRect(0,0,canvas.width,canvas.height);ctx.drawImage(cropBitmap,g.x,g.y,g.w,g.h);
-    if(!cropWhole){ctx.fillStyle='rgba(20,35,25,.62)';ctx.fillRect(0,0,canvas.width,g.frame.y);ctx.fillRect(0,g.frame.y,canvas.width-g.frame.w-g.frame.x,g.frame.h);ctx.fillRect(g.frame.x+g.frame.w,g.frame.y,canvas.width-g.frame.x-g.frame.w,g.frame.h);ctx.fillRect(0,g.frame.y+g.frame.h,canvas.width,canvas.height-g.frame.y-g.frame.h);ctx.fillRect(0,g.frame.y,g.frame.x,g.frame.h);ctx.strokeStyle='#fff';ctx.lineWidth=4;ctx.strokeRect(g.frame.x,g.frame.y,g.frame.w,g.frame.h);}
+    if(!cropWhole){ctx.fillStyle='rgba(20,35,25,.62)';ctx.fillRect(0,0,canvas.width,g.frame.y);ctx.fillRect(g.frame.x+g.frame.w,g.frame.y,canvas.width-g.frame.x-g.frame.w,g.frame.h);ctx.fillRect(0,g.frame.y+g.frame.h,canvas.width,canvas.height-g.frame.y-g.frame.h);ctx.fillRect(0,g.frame.y,g.frame.x,g.frame.h);ctx.strokeStyle='#fff';ctx.lineWidth=4;ctx.strokeRect(g.frame.x,g.frame.y,g.frame.w,g.frame.h);
+      ctx.fillStyle='#fff';for(const [hx,hy] of [[g.frame.x,g.frame.y],[g.frame.x+g.frame.w,g.frame.y],[g.frame.x,g.frame.y+g.frame.h],[g.frame.x+g.frame.w,g.frame.y+g.frame.h],[g.frame.x+g.frame.w/2,g.frame.y],[g.frame.x+g.frame.w/2,g.frame.y+g.frame.h],[g.frame.x,g.frame.y+g.frame.h/2],[g.frame.x+g.frame.w,g.frame.y+g.frame.h/2]]){ctx.beginPath();ctx.arc(hx,hy,10,0,Math.PI*2);ctx.fill();}}
   }
-  function cropSize(){const canvas=$('cropCanvas');canvas.width=600;canvas.height=600;cropOffset={x:0,y:0};$('cropZoom').value='100';cropDraw();}
+  function cropSize(){const canvas=$('cropCanvas');canvas.width=600;canvas.height=600;Object.assign(cropFrame,{x:90,y:40,w:420,h:520});cropOffset={x:0,y:0};$('cropZoom').value='100';cropDraw();}
   async function cropOpen(){try{const selected=cover||$('photo').files?.[0];const response=selected?selected:await fetch($('preview').src);if(!selected&&!response.ok)throw Error('Das Cover konnte nicht geladen werden.');const blob=selected||await response.blob();cropBitmap=await createImageBitmap(blob);cropWhole=false;cropSize();$('cropDialog').showModal();}catch(e){showMessage(e.message||'Bildbearbeitung nicht möglich.',true,true);}}
   function cropClose(){if($('cropDialog').open)$('cropDialog').close();cropBitmap?.close();cropBitmap=null;cropDrag=null;}
   async function cropRotate(){if(!cropBitmap)return;const canvas=document.createElement('canvas');canvas.width=cropBitmap.height;canvas.height=cropBitmap.width;const ctx=canvas.getContext('2d');ctx.translate(canvas.width,0);ctx.rotate(Math.PI/2);ctx.drawImage(cropBitmap,0,0);const rotated=await createImageBitmap(canvas);cropBitmap.close();cropBitmap=rotated;cropSize();}
@@ -50,8 +50,14 @@
   $('cropReset').addEventListener('click',()=>{cropWhole=true;cropSize();});$('cropRotate').addEventListener('click',cropRotate);$('cropApply').addEventListener('click',cropApply);
   $('cropZoom').addEventListener('input',()=>{if(!cropWhole)cropDraw();else{cropWhole=false;cropOffset={x:0,y:0};cropDraw();}});
   $('cropDialog').addEventListener('close',()=>{cropBitmap?.close();cropBitmap=null;});
-  $('cropCanvas').addEventListener('pointerdown',event=>{if(!cropBitmap||cropWhole)return;cropDrag={id:event.pointerId,x:event.clientX,y:event.clientY,offset:{...cropOffset}};$('cropCanvas').setPointerCapture(event.pointerId);});
-  $('cropCanvas').addEventListener('pointermove',event=>{if(!cropDrag||cropDrag.id!==event.pointerId)return;const box=$('cropCanvas').getBoundingClientRect();cropOffset={x:cropDrag.offset.x+(event.clientX-cropDrag.x)*600/box.width,y:cropDrag.offset.y+(event.clientY-cropDrag.y)*600/box.height};cropDraw();});
+  function cropPoint(event){const box=$('cropCanvas').getBoundingClientRect();return{x:(event.clientX-box.left)*600/box.width,y:(event.clientY-box.top)*600/box.height,tolerance:28*600/box.width};}
+  $('cropCanvas').addEventListener('pointerdown',event=>{if(!cropBitmap)return;const p=cropPoint(event);if(cropWhole){cropWhole=false;Object.assign(cropFrame,{x:20,y:20,w:560,h:560});cropDraw();}const f=cropFrame,t=p.tolerance;
+    const nearX=p.x>=f.x-t&&p.x<=f.x+f.w+t,nearY=p.y>=f.y-t&&p.y<=f.y+f.h+t;
+    const edges={left:nearY&&Math.abs(p.x-f.x)<=t,right:nearY&&Math.abs(p.x-f.x-f.w)<=t,top:nearX&&Math.abs(p.y-f.y)<=t,bottom:nearX&&Math.abs(p.y-f.y-f.h)<=t};
+    cropDrag={id:event.pointerId,p,edges,frame:{...f},offset:{...cropOffset}};$('cropCanvas').setPointerCapture(event.pointerId);});
+  $('cropCanvas').addEventListener('pointermove',event=>{if(!cropDrag||cropDrag.id!==event.pointerId)return;const p=cropPoint(event),d=cropDrag,dx=p.x-d.p.x,dy=p.y-d.p.y,e=d.edges,f=d.frame;
+    if(Object.values(e).some(Boolean)){let left=f.x,right=f.x+f.w,top=f.y,bottom=f.y+f.h;if(e.left)left=Math.max(20,Math.min(right-100,f.x+dx));if(e.right)right=Math.min(580,Math.max(left+100,f.x+f.w+dx));if(e.top)top=Math.max(20,Math.min(bottom-100,f.y+dy));if(e.bottom)bottom=Math.min(580,Math.max(top+100,f.y+f.h+dy));Object.assign(cropFrame,{x:left,y:top,w:right-left,h:bottom-top});}
+    else cropOffset={x:d.offset.x+dx,y:d.offset.y+dy};cropDraw();});
   for(const type of ['pointerup','pointercancel'])$('cropCanvas').addEventListener(type,()=>{cropDrag=null;});
   $('imageClose').addEventListener('click',()=>$('imageDialog').close());$('imageDialog').addEventListener('click',event=>{if(event.target===$('imageDialog'))$('imageDialog').close();});$('imageDialog').addEventListener('close',()=>{$('largeImage').removeAttribute('src');});
   refresh();setInterval(refresh,30000);
