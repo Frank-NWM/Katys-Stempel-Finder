@@ -7,7 +7,7 @@ const respond = (data,status=200) => new Response(JSON.stringify(data),{status,h
 const validSku = sku => /^\d{5,9}$/.test(sku);
 const checkPassword = candidate => {
   const secret=process.env.NETLIFY_ADMIN_PASSWORD;
-  if(!secret || secret.length<12) return false;
+  if(!secret || secret.length!==4) return false;
   const a=Buffer.from(candidate||''),b=Buffer.from(secret);
   return a.length===b.length && timingSafeEqual(a,b);
 };
@@ -26,7 +26,7 @@ export default async function handler(request) {
     } catch(e) { console.error('Sets GET',e); return respond({error:'Der gemeinsame Bestand ist gerade nicht erreichbar.'},503); }
   }
   if(!['POST','PUT','DELETE'].includes(request.method)) return respond({error:'Methode nicht erlaubt.'},405);
-  if(!process.env.NETLIFY_ADMIN_PASSWORD || process.env.NETLIFY_ADMIN_PASSWORD.length<12) return respond({error:'Der Administrator muss zuerst NETLIFY_ADMIN_PASSWORD auf Netlify festlegen (mindestens 12 Zeichen).'},503);
+  if(!process.env.NETLIFY_ADMIN_PASSWORD || process.env.NETLIFY_ADMIN_PASSWORD.length!==4) return respond({error:'Der Administrator muss zuerst NETLIFY_ADMIN_PASSWORD auf Netlify festlegen (genau 4 Zeichen).'},503);
   if(!checkPassword(request.headers.get('X-Admin-Password'))) return respond({error:'Admin-Passwort falsch.'},401);
   if(Number(request.headers.get('content-length')||0)>3_000_000) return respond({error:'Das Cover ist zu groß. Bitte ein kleineres Foto wählen.'},413);
   try {
