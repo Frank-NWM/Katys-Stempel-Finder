@@ -75,7 +75,7 @@ export default async function handler(request) {
     try{for(const file of files){const key=`covers/${crypto.randomUUID()}`;keys.push(key);await images.set(key,file,{metadata:{contentType:file.type}});uploaded.push(`/.netlify/functions/image?id=${key.split('/')[1]}`);}}
     catch(e){await Promise.all(keys.map(key=>images.delete(key).catch(()=>{})));throw e;}
     const photoUrls=order?order.map(item=>typeof item==='number'?uploaded[item]:item):[...kept,...uploaded],imageKey=photoUrls[0]||'';
-    const record={sku,name,kind:['Stempel','Stanzen','Stempel & Stanzen'].includes(string('kind'))?string('kind'):(existing?.kind||'Stempel'),additionalImages:photoUrls.slice(1),motifs:string('motifs').slice(0,1000),topics:string('topics').slice(0,1000),phrases:string('phrases').split(/\n|;/).map(s=>s.trim()).filter(Boolean).slice(0,50),location:string('location').slice(0,150),imageKey,createdAt:existing?.createdAt||new Date().toISOString(),updatedAt:new Date().toISOString()};
+    const record={sku,name,kind:['Stempel','Stanzen','Hot Foil','Stempel & Stanzen'].includes(string('kind'))?string('kind'):(existing?.kind||'Stempel'),additionalImages:photoUrls.slice(1),motifs:string('motifs').slice(0,1000),topics:string('topics').slice(0,1000),phrases:string('phrases').split(/\n|;/).map(s=>s.trim()).filter(Boolean).slice(0,50),location:string('location').slice(0,150),imageKey,createdAt:existing?.createdAt||new Date().toISOString(),updatedAt:new Date().toISOString()};
     try {
       if(request.method==='POST'){
         const {modified}=await store.setJSON(`sets/${sku}`,record,{onlyIfNew:true});
