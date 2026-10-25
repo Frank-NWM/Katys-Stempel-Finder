@@ -1,7 +1,7 @@
 (() => {
   'use strict';
   const $=id=>document.getElementById(id);
-  const norm=s=>String(s||'').toLocaleLowerCase('de').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ß/g,'ss');
+  const norm=s=>String(s||'').toLocaleLowerCase('de').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ß/g,'ss').replace(/hot[\s-]*foil/g,'hot foil');
   let articlePhotos=[],activePhoto=-1,scanGeneration=0;
   let seed=[],extra=[],cover=null,selectedPhoto=null,loading=false,editingSku=null;
   const phraseScroll=new Map();
